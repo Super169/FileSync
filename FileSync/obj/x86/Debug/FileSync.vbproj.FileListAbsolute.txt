@@ -1,0 +1,12 @@
+C:\my.source\FileSync\FileSync\bin\Debug\FileSync.exe
+C:\my.source\FileSync\FileSync\bin\Debug\FileSync.pdb
+C:\my.source\FileSync\FileSync\bin\Debug\FileSync.xml
+C:\my.source\FileSync\FileSync\obj\x86\Debug\FileSync.exe
+C:\my.source\FileSync\FileSync\obj\x86\Debug\FileSync.xml
+C:\my.source\FileSync\FileSync\obj\x86\Debug\FileSync.pdb
+C:\my.source\FileSync\FileSync\obj\x86\Debug\FileSync.frmMain.resources
+C:\my.source\FileSync\FileSync\obj\x86\Debug\FileSync.Resources.resources
+C:\my.source\FileSync\FileSync\obj\x86\Debug\FileSync.frmAbout.resources
+C:\my.source\FileSync\FileSync\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\my.source\FileSync\FileSync\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\my.source\FileSync\FileSync\obj\x86\Debug\GenerateResource.write.1.tlog

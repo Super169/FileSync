@@ -1,0 +1,700 @@
+2013-04-19 01:49:49 - 
+2013-04-19 01:49:49 - Start FileSync
+2013-04-19 01:49:49 - filesync  -s "c:\Program Files" -t "E:\Temp\Program Files" 
+2013-04-19 01:49:49 - Execution configuration:
+2013-04-19 01:49:49 -     - Source Folder: c:\Program Files
+2013-04-19 01:49:49 -     - Target Folder: E:\Temp\Program Files
+2013-04-19 01:49:49 -     - No backup
+2013-04-19 01:49:49 -     - Data synchronization
+2013-04-19 01:49:49 -     - No extra ignore file pattern
+2013-04-19 01:49:49 -     - Patial log exclude ignored files
+2013-04-19 01:49:49 -     - Show window
+2013-04-19 01:49:49 - 
+2013-04-19 01:49:49 - FileSync Started
+2013-04-19 01:49:50 - Info: {#### Exceution Error ####  |  Access to the path 'c:\Program Files\WindowsApps' is denied.}
+2013-04-19 01:49:50 - FileSync Completed
+2013-04-19 01:49:50 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:49:50 - FileSync Completed
+2013-04-19 01:50:00 - Exit FileSync
+2013-04-19 01:50:59 - 
+2013-04-19 01:50:59 - Start FileSync
+2013-04-19 01:50:59 - filesync  -s "c:\Program Files" -t "E:\Temp\Program Files" 
+2013-04-19 01:50:59 - Execution configuration:
+2013-04-19 01:50:59 -     - Source Folder: c:\Program Files
+2013-04-19 01:50:59 -     - Target Folder: E:\Temp\Program Files
+2013-04-19 01:50:59 -     - No backup
+2013-04-19 01:50:59 -     - Data synchronization
+2013-04-19 01:50:59 -     - No extra ignore file pattern
+2013-04-19 01:50:59 -     - Patial log exclude ignored files
+2013-04-19 01:50:59 -     - Show window
+2013-04-19 01:50:59 - 
+2013-04-19 01:50:59 - FileSync Started
+2013-04-19 01:51:00 - Info: {#### Exceution Error ####  |  Access to the path 'c:\Program Files\WindowsApps' is denied.}
+2013-04-19 01:51:00 - FileSync Completed
+2013-04-19 01:51:00 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:51:00 - FileSync Completed
+2013-04-19 01:51:00 - Go program exit
+2013-04-19 01:51:00 - Exit FileSync
+2013-04-19 01:53:17 - 
+2013-04-19 01:53:17 - Start FileSync
+2013-04-19 01:53:17 - filesync  -s "c:\Program Files" -t "E:\Temp\Program Files" 
+2013-04-19 01:53:17 - Execution configuration:
+2013-04-19 01:53:17 -     - Source Folder: c:\Program Files
+2013-04-19 01:53:17 -     - Target Folder: E:\Temp\Program Files
+2013-04-19 01:53:17 -     - No backup
+2013-04-19 01:53:17 -     - Data synchronization
+2013-04-19 01:53:17 -     - No extra ignore file pattern
+2013-04-19 01:53:17 -     - Patial log exclude ignored files
+2013-04-19 01:53:17 -     - Show window
+2013-04-19 01:53:17 - 
+2013-04-19 01:53:17 - FileSync Start
+2013-04-19 01:53:18 - Info: {#### Exceution Error ####  |  Access to the path 'c:\Program Files\WindowsApps' is denied.}
+2013-04-19 01:53:18 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:53:18 - Go program exit
+2013-04-19 01:53:18 - Exit FileSync
+2013-04-19 01:53:18 - FileSync Completed
+2013-04-19 09:18:33 - 
+2013-04-19 09:18:33 - Start FileSync
+2013-04-19 09:18:51 - Exit FileSync
+2013-04-19 09:19:22 - 
+2013-04-19 09:19:22 - Start FileSync
+2013-04-19 09:19:43 - Exit FileSync
+2013-04-19 09:22:05 - 
+2013-04-19 09:22:05 - Start FileSync
+2013-04-19 09:24:55 - 
+2013-04-19 09:24:55 - Start FileSync
+2013-04-19 09:25:21 - 
+2013-04-19 09:25:21 - Start FileSync
+2013-04-19 09:25:27 - Exit FileSync
+2013-04-19 09:31:21 - 
+2013-04-19 09:31:21 - Start FileSync
+2013-04-19 09:31:48 - Exit FileSync
+2013-04-19 09:32:32 - 
+2013-04-19 09:32:32 - Start FileSync
+2013-04-19 09:32:41 - Exit FileSync
+2013-04-19 09:32:54 - 
+2013-04-19 09:32:54 - Start FileSync
+2013-04-19 09:32:57 - Exit FileSync
+2013-04-19 09:34:09 - 
+2013-04-19 09:34:09 - Start FileSync
+2013-04-19 09:34:35 - Exit FileSync
+2013-04-19 09:35:44 - 
+2013-04-19 09:35:44 - Start FileSync
+2013-04-19 09:36:14 - Exit FileSync
+2013-04-19 09:36:38 - 
+2013-04-19 09:36:38 - Start FileSync
+2013-04-19 09:36:45 - Exit FileSync
+2013-04-19 09:36:56 - 
+2013-04-19 09:36:56 - Start FileSync
+2013-04-19 09:37:03 - Exit FileSync
+2013-04-19 09:37:22 - 
+2013-04-19 09:37:22 - Start FileSync
+2013-04-19 09:37:57 - Exit FileSync
+2013-04-19 09:38:15 - 
+2013-04-19 09:38:15 - Start FileSync
+2013-04-19 09:38:34 - Exit FileSync
+2013-04-19 09:39:44 - 
+2013-04-19 09:39:44 - Start FileSync
+2013-04-19 09:39:49 - Exit FileSync
+2013-04-19 09:54:00 - 
+2013-04-19 09:54:00 - Start FileSync
+2013-04-19 09:54:00 - "C:\my.source\FileSync\FileSync\bin\Debug\FileSync.vshost.exe" -?
+2013-04-19 09:54:00 - Invalid option: -?
+2013-04-19 09:55:38 - 
+2013-04-19 09:55:38 - Start FileSync
+2013-04-19 09:55:38 - "C:\my.source\FileSync\FileSync\bin\Debug\FileSync.vshost.exe" -?
+2013-04-19 09:55:38 - Invalid option: -?
+2013-04-19 09:59:56 - 
+2013-04-19 09:59:56 - Start FileSync
+2013-04-19 09:59:56 - "C:\my.source\FileSync\FileSync\bin\Debug\FileSync.vshost.exe" -?
+2013-04-19 09:59:56 - Invalid option: -?
+2013-04-19 10:00:12 - 
+2013-04-19 10:00:12 - Start FileSync
+2013-04-19 10:00:12 - "C:\my.source\FileSync\FileSync\bin\Debug\FileSync.vshost.exe" -?
+2013-04-19 10:00:12 - Invalid option: -?
+2013-04-19 10:01:09 - 
+2013-04-19 10:01:09 - Start FileSync
+2013-04-19 10:01:09 - "C:\my.source\FileSync\FileSync\bin\Debug\FileSync.vshost.exe" -?
+2013-04-19 10:01:09 - FileSync
+2013-04-19 11:12:30 - 
+2013-04-19 11:12:30 - Start FileSync
+2013-04-19 11:12:54 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] [F:\FileSync\CheckFile\IMHP.backup]
+2013-04-19 11:12:54 - Execution configuration:
+2013-04-19 11:12:54 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:12:54 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:12:54 -     - Backup Folder: F:\FileSync\CheckFile\IMHP.backup
+2013-04-19 11:12:54 -     - Data synchronization
+2013-04-19 11:12:54 -     - No extra ignore file pattern
+2013-04-19 11:12:54 -     - Patial log exclude ignored files
+2013-04-19 11:12:54 -     - Show window
+2013-04-19 11:12:54 - 
+2013-04-19 11:12:54 - FileSync Start
+2013-04-19 11:12:54 - Info: {[U] Both-002.txt  |  [U] Both-002.txt}
+2013-04-19 11:12:54 - Info: {[A] Source-Only.txt  |  }
+2013-04-19 11:12:54 - Info: {  |  [D] Target-Only.txt}
+2013-04-19 11:12:54 - Info: {  |  [D] [Lost-files]}
+2013-04-19 11:12:54 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:12:55 - Info: {[A] [Source Folder]  |  }
+2013-04-19 11:12:55 - Info: {  |  [D] [Target Folder]}
+2013-04-19 11:12:55 - Info: {[U] UnMatch Folder\A01.txt  |  [U] UnMatch Folder\A01.txt}
+2013-04-19 11:12:55 - Info: {[U] UnMatch Folder\A02.txt  |  [U] UnMatch Folder\A02.txt}
+2013-04-19 11:12:55 - Info: {  |  [D] UnMatch Folder\aaa.xlsx}
+2013-04-19 11:12:55 - Info: {[A] [UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:14:43 - 
+2013-04-19 11:14:43 - Start FileSync
+2013-04-19 11:15:05 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target2] []
+2013-04-19 11:15:05 - Execution configuration:
+2013-04-19 11:15:05 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:15:05 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target2
+2013-04-19 11:15:05 -     - No backup
+2013-04-19 11:15:05 -     - Data synchronization
+2013-04-19 11:15:05 -     - No extra ignore file pattern
+2013-04-19 11:15:05 -     - Patial log exclude ignored files
+2013-04-19 11:15:05 -     - Show window
+2013-04-19 11:15:05 - 
+2013-04-19 11:15:05 - FileSync Start
+2013-04-19 11:15:05 - Info: {[A] Both-001.txt  |  }
+2013-04-19 11:15:05 - Info: {[A] Both-002.txt  |  }
+2013-04-19 11:15:05 - Info: {[A] Source-Only.txt  |  }
+2013-04-19 11:15:05 - Info: {[A] [Match Folder]  |  }
+2013-04-19 11:15:19 - Info: {[A] Match Folder\A01.txt  |  }
+2013-04-19 11:15:24 - Info: {[A] Match Folder\A02.txt  |  }
+2013-04-19 11:15:28 - Info: {[A] Match Folder\A03.txt  |  }
+2013-04-19 11:15:28 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:15:35 - Info: {[A] NewFolder\Both-002.txt  |  }
+2013-04-19 11:15:35 - Info: {[A] NewFolder\Source-Only.txt  |  }
+2013-04-19 11:15:35 - Info: {[A] [NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Microsoft Office Excel Worksheet.xlsx  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Text Document.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Both-001.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Both-002.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\Match Folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A01.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A02.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A03.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Both-002.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\Source Folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-001.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-002.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Match Folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A01.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A02.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A03.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Both-002.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Source Folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:15:48 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] [Source Folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] [UnMatch Folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] UnMatch Folder\A01.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] UnMatch Folder\A02.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] UnMatch Folder\A03.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] UnMatch Folder\Test.docx  |  }
+2013-04-19 11:15:48 - Info: {[A] [UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:15:48 - Info: {[A] UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:15:48 - Info: {[A] UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:15:48 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:15:48 - FileSync Completed
+2013-04-19 11:16:11 - Exit FileSync
+2013-04-19 11:16:56 - 
+2013-04-19 11:16:56 - Start FileSync
+2013-04-19 11:17:40 - FileCheck started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:17:40 - Execution configuration:
+2013-04-19 11:17:40 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:17:40 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:17:40 -     - No backup
+2013-04-19 11:17:40 -     - Check folder only
+2013-04-19 11:17:40 -     - No extra ignore file pattern
+2013-04-19 11:17:40 -     - Patial log exclude ignored files
+2013-04-19 11:17:40 -     - Show window
+2013-04-19 11:17:40 - 
+2013-04-19 11:17:40 - FileCheck Start
+2013-04-19 11:17:40 - Info: {[U] Both-002.txt  |  [U] Both-002.txt}
+2013-04-19 11:17:40 - Info: {[A] Source-Only.txt  |  }
+2013-04-19 11:17:40 - Info: {  |  [D] Target-Only.txt}
+2013-04-19 11:17:40 - Info: {  |  [D] [Lost-files]}
+2013-04-19 11:17:40 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:17:40 - Info: {[A] [Source Folder]  |  }
+2013-04-19 11:17:40 - Info: {  |  [D] [Target Folder]}
+2013-04-19 11:17:40 - Info: {[U] UnMatch Folder\A01.txt  |  [U] UnMatch Folder\A01.txt}
+2013-04-19 11:17:40 - Info: {[U] UnMatch Folder\A02.txt  |  [U] UnMatch Folder\A02.txt}
+2013-04-19 11:17:40 - Info: {  |  [D] UnMatch Folder\aaa.xlsx}
+2013-04-19 11:17:40 - Info: {[A] [UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:17:40 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:17:41 - FileCheck Completed
+2013-04-19 11:17:42 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:17:42 - Execution configuration:
+2013-04-19 11:17:42 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:17:42 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:17:42 -     - No backup
+2013-04-19 11:17:42 -     - Data synchronization
+2013-04-19 11:17:42 -     - No extra ignore file pattern
+2013-04-19 11:17:42 -     - Patial log exclude ignored files
+2013-04-19 11:17:42 -     - Show window
+2013-04-19 11:17:42 - 
+2013-04-19 11:17:42 - FileSync Start
+2013-04-19 11:17:42 - Info: {[U] Both-002.txt  |  [U] Both-002.txt}
+2013-04-19 11:17:42 - Info: {[A] Source-Only.txt  |  }
+2013-04-19 11:17:43 - Info: {  |  [D] Target-Only.txt}
+2013-04-19 11:17:43 - Info: {  |  [D] [Lost-files]}
+2013-04-19 11:17:43 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:17:43 - Info: {[A] [Source Folder]  |  }
+2013-04-19 11:17:43 - Info: {  |  [D] [Target Folder]}
+2013-04-19 11:17:43 - Info: {[U] UnMatch Folder\A01.txt  |  [U] UnMatch Folder\A01.txt}
+2013-04-19 11:17:43 - Info: {[U] UnMatch Folder\A02.txt  |  [U] UnMatch Folder\A02.txt}
+2013-04-19 11:17:43 - Info: {  |  [D] UnMatch Folder\aaa.xlsx}
+2013-04-19 11:17:43 - Info: {[A] [UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:17:43 - Info: {[A] UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:17:43 - Info: {[A] UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:17:43 - Info: {[A] UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:17:43 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:17:43 - FileSync Completed
+2013-04-19 11:18:55 - Exit FileSync
+2013-04-19 11:19:46 - 
+2013-04-19 11:19:46 - Start FileSync
+2013-04-19 11:20:13 - FileCheck started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:20:13 - Execution configuration:
+2013-04-19 11:20:13 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:20:13 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:20:13 -     - No backup
+2013-04-19 11:20:13 -     - Check folder only
+2013-04-19 11:20:13 -     - No extra ignore file pattern
+2013-04-19 11:20:13 -     - Patial log exclude ignored files
+2013-04-19 11:20:13 -     - Show window
+2013-04-19 11:20:13 - 
+2013-04-19 11:20:13 - FileCheck Start
+2013-04-19 11:20:13 - Info: {[A] New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:20:13 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:20:13 - FileCheck Completed
+2013-04-19 11:20:20 - Exit FileSync
+2013-04-19 11:20:29 - 
+2013-04-19 11:20:29 - Start FileSync
+2013-04-19 11:20:40 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:20:40 - Execution configuration:
+2013-04-19 11:20:40 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:20:40 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:20:40 -     - No backup
+2013-04-19 11:20:40 -     - Data synchronization
+2013-04-19 11:20:40 -     - No extra ignore file pattern
+2013-04-19 11:20:40 -     - Patial log exclude ignored files
+2013-04-19 11:20:40 -     - Show window
+2013-04-19 11:20:40 - 
+2013-04-19 11:20:40 - FileSync Start
+2013-04-19 11:21:12 - Info: {[A] New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:21:12 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:21:12 - FileSync Completed
+2013-04-19 11:21:21 - FileCheck started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:21:21 - Execution configuration:
+2013-04-19 11:21:21 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:21:21 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:21:21 -     - No backup
+2013-04-19 11:21:21 -     - Check folder only
+2013-04-19 11:21:21 -     - No extra ignore file pattern
+2013-04-19 11:21:21 -     - Full log include ignored files
+2013-04-19 11:21:21 -     - Show window
+2013-04-19 11:21:21 - 
+2013-04-19 11:21:21 - FileCheck Start
+2013-04-19 11:21:21 - Info: {[I] ~$w Microsoft Office Word Document.docx  |  }
+2013-04-19 11:21:21 - Info: {  |  [I] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\~$Test.docx}
+2013-04-19 11:21:21 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:21:21 - FileCheck Completed
+2013-04-19 11:22:19 - FileCheck started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:22:19 - Execution configuration:
+2013-04-19 11:22:19 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:22:19 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:22:19 -     - No backup
+2013-04-19 11:22:19 -     - Check folder only
+2013-04-19 11:22:19 -     - No extra ignore file pattern
+2013-04-19 11:22:19 -     - Full log include ignored files
+2013-04-19 11:22:19 -     - Show window
+2013-04-19 11:22:19 - 
+2013-04-19 11:22:19 - FileCheck Start
+2013-04-19 11:22:19 - Info: {[U] Both-002.txt  |  [U] Both-002.txt}
+2013-04-19 11:22:19 - Info: {[A] Source-Only.txt  |  }
+2013-04-19 11:22:19 - Info: {  |  [D] Target-Only.txt}
+2013-04-19 11:22:19 - Info: {  |  [D] [Lost-files]}
+2013-04-19 11:22:19 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:22:19 - Info: {[A] [Source Folder]  |  }
+2013-04-19 11:22:19 - Info: {  |  [D] [Target Folder]}
+2013-04-19 11:22:19 - Info: {[U] UnMatch Folder\A01.txt  |  [U] UnMatch Folder\A01.txt}
+2013-04-19 11:22:19 - Info: {[U] UnMatch Folder\A02.txt  |  [U] UnMatch Folder\A02.txt}
+2013-04-19 11:22:19 - Info: {  |  [D] UnMatch Folder\aaa.xlsx}
+2013-04-19 11:22:19 - Info: {[A] [UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:22:19 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:22:19 - FileCheck Completed
+2013-04-19 11:24:28 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:24:28 - Execution configuration:
+2013-04-19 11:24:28 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:24:28 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:24:28 -     - No backup
+2013-04-19 11:24:28 -     - Data synchronization
+2013-04-19 11:24:28 -     - No extra ignore file pattern
+2013-04-19 11:24:28 -     - Full log include ignored files
+2013-04-19 11:24:28 -     - Show window
+2013-04-19 11:24:28 - 
+2013-04-19 11:24:28 - FileSync Start
+2013-04-19 11:24:28 - Info: {[U] Both-002.txt  |  [U] Both-002.txt}
+2013-04-19 11:24:28 - Info: {[A] Source-Only.txt  |  }
+2013-04-19 11:24:28 - Info: {  |  [D] Target-Only.txt}
+2013-04-19 11:24:28 - Info: {  |  [D] [Lost-files]}
+2013-04-19 11:24:28 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:24:29 - Info: {[A] [Source Folder]  |  }
+2013-04-19 11:24:29 - Info: {  |  [D] [Target Folder]}
+2013-04-19 11:24:29 - Info: {[U] UnMatch Folder\A01.txt  |  [U] UnMatch Folder\A01.txt}
+2013-04-19 11:24:29 - Info: {[U] UnMatch Folder\A02.txt  |  [U] UnMatch Folder\A02.txt}
+2013-04-19 11:24:29 - Info: {  |  [D] UnMatch Folder\aaa.xlsx}
+2013-04-19 11:24:29 - Info: {[A] [UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:24:29 - Info: {[A] UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:24:29 - Info: {[A] UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:24:29 - Info: {[A] UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:24:29 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:24:29 - FileSync Completed
+2013-04-19 11:27:08 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:27:08 - Execution configuration:
+2013-04-19 11:27:08 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:27:08 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:27:08 -     - No backup
+2013-04-19 11:27:08 -     - Data synchronization
+2013-04-19 11:27:08 -     - No extra ignore file pattern
+2013-04-19 11:27:08 -     - Full log include ignored files
+2013-04-19 11:27:08 -     - Show window
+2013-04-19 11:27:08 - 
+2013-04-19 11:27:08 - FileSync Start
+2013-04-19 11:27:08 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder]  |  }
+2013-04-19 11:27:33 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:27:36 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:27:39 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:27:42 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:28:01 - Info: {[I] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\~$Test.docx  |  }
+2013-04-19 11:28:12 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:28:24 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:28:24 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:28:24 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:28:24 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:28:24 - FileSync Completed
+2013-04-19 11:28:41 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:28:41 - Execution configuration:
+2013-04-19 11:28:41 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:28:41 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:28:41 -     - No backup
+2013-04-19 11:28:41 -     - Data synchronization
+2013-04-19 11:28:41 -     - No extra ignore file pattern
+2013-04-19 11:28:41 -     - Full log include ignored files
+2013-04-19 11:28:41 -     - Show window
+2013-04-19 11:28:41 - 
+2013-04-19 11:28:41 - FileSync Start
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b]  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-001.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-002.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Source-Only.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Match Folder]  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A01.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A02.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A03.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder]  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Both-002.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Source-Only.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Source Folder]  |  }
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder]  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:28:41 - Info: {[I] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\~$Test.docx  |  }
+2013-04-19 11:28:41 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:28:41 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:28:41 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:28:41 - FileSync Completed
+2013-04-19 11:29:03 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:29:04 - Execution configuration:
+2013-04-19 11:29:04 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:29:04 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:29:04 -     - No backup
+2013-04-19 11:29:04 -     - Data synchronization
+2013-04-19 11:29:04 -     - No extra ignore file pattern
+2013-04-19 11:29:04 -     - Full log include ignored files
+2013-04-19 11:29:04 -     - Show window
+2013-04-19 11:29:04 - 
+2013-04-19 11:29:04 - FileSync Start
+2013-04-19 11:29:04 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:29:04 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:29:04 - FileSync Completed
+2013-04-19 11:29:23 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:29:23 - Execution configuration:
+2013-04-19 11:29:23 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:29:23 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:29:23 -     - No backup
+2013-04-19 11:29:23 -     - Data synchronization
+2013-04-19 11:29:23 -     - No extra ignore file pattern
+2013-04-19 11:29:23 -     - Full log include ignored files
+2013-04-19 11:29:23 -     - Show window
+2013-04-19 11:29:23 - 
+2013-04-19 11:29:23 - FileSync Start
+2013-04-19 11:29:23 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:29:23 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:29:23 - FileSync Completed
+2013-04-19 11:29:33 - Exit FileSync
+2013-04-19 11:30:14 - 
+2013-04-19 11:30:14 - Start FileSync
+2013-04-19 11:30:25 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:30:25 - Execution configuration:
+2013-04-19 11:30:25 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:30:25 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:30:25 -     - No backup
+2013-04-19 11:30:25 -     - Data synchronization
+2013-04-19 11:30:25 -     - No extra ignore file pattern
+2013-04-19 11:30:25 -     - Patial log exclude ignored files
+2013-04-19 11:30:25 -     - Show window
+2013-04-19 11:30:25 - 
+2013-04-19 11:30:25 - FileSync Start
+2013-04-19 11:30:25 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:30:26 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:30:26 - FileSync Completed
+2013-04-19 11:30:46 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:30:46 - Execution configuration:
+2013-04-19 11:30:46 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:30:46 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:30:46 -     - No backup
+2013-04-19 11:30:46 -     - Data synchronization
+2013-04-19 11:30:46 -     - No extra ignore file pattern
+2013-04-19 11:30:46 -     - Patial log exclude ignored files
+2013-04-19 11:30:46 -     - Show window
+2013-04-19 11:30:46 - 
+2013-04-19 11:30:46 - FileSync Start
+2013-04-19 11:30:46 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:30:46 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:30:47 - FileSync Completed
+2013-04-19 11:31:57 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:31:57 - Execution configuration:
+2013-04-19 11:31:57 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:31:57 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:31:57 -     - No backup
+2013-04-19 11:31:57 -     - Data synchronization
+2013-04-19 11:31:57 -     - No extra ignore file pattern
+2013-04-19 11:31:57 -     - Patial log exclude ignored files
+2013-04-19 11:31:57 -     - Show window
+2013-04-19 11:31:57 - 
+2013-04-19 11:31:57 - FileSync Start
+2013-04-19 11:33:24 - 
+2013-04-19 11:33:24 - Start FileSync
+2013-04-19 11:33:35 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:33:35 - Execution configuration:
+2013-04-19 11:33:35 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:33:35 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:33:35 -     - No backup
+2013-04-19 11:33:35 -     - Data synchronization
+2013-04-19 11:33:35 -     - No extra ignore file pattern
+2013-04-19 11:33:35 -     - Patial log exclude ignored files
+2013-04-19 11:33:35 -     - Show window
+2013-04-19 11:33:35 - 
+2013-04-19 11:33:35 - FileSync Start
+2013-04-19 11:33:43 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:33:44 - Info: {[A] NewFolder\Both-002.txt  |  }
+2013-04-19 11:33:44 - Info: {[A] NewFolder\Source-Only.txt  |  }
+2013-04-19 11:33:44 - Info: {[A] [NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Microsoft Office Excel Worksheet.xlsx  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Text Document.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Both-001.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Both-002.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\Match Folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A01.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A02.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A03.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Both-002.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\Source Folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-001.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-002.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Match Folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A01.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A02.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A03.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Both-002.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Source Folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:33:47 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:33:47 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:33:47 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:33:47 - FileSync Completed
+2013-04-19 11:33:59 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:33:59 - Execution configuration:
+2013-04-19 11:33:59 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:33:59 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:33:59 -     - No backup
+2013-04-19 11:33:59 -     - Data synchronization
+2013-04-19 11:33:59 -     - No extra ignore file pattern
+2013-04-19 11:33:59 -     - Full log include ignored files
+2013-04-19 11:33:59 -     - Show window
+2013-04-19 11:33:59 - 
+2013-04-19 11:33:59 - FileSync Start
+2013-04-19 11:33:59 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Both-002.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Source-Only.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] [NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:33:59 - Info: {[A] [NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] [NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Microsoft Office Excel Worksheet.xlsx  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Text Document.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a]  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Both-001.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Both-002.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Source-Only.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\Match Folder]  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A01.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A02.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A03.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder]  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Both-002.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Source-Only.txt  |  }
+2013-04-19 11:33:59 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:33:59 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\Source Folder]  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-001.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-002.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Source-Only.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Match Folder]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A01.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A02.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A03.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Both-002.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Source-Only.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Source Folder]  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:34:00 - Info: {[I] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\~$Test.docx  |  }
+2013-04-19 11:34:00 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:34:00 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:34:00 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:34:00 - FileSync Completed
+2013-04-19 11:34:12 - Exit FileSync

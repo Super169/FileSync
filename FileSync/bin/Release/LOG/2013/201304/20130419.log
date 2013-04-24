@@ -1,0 +1,1744 @@
+2013-04-19 01:54:37 - 
+2013-04-19 01:54:37 - Start FileSync
+2013-04-19 01:54:37 - Execution configuration:
+2013-04-19 01:54:37 -     - Source Folder: 
+2013-04-19 01:54:37 -     - Target Folder: 
+2013-04-19 01:54:37 -     - No backup
+2013-04-19 01:54:37 -     - Data synchronization
+2013-04-19 01:54:37 -     - No extra ignore file pattern
+2013-04-19 01:54:37 -     - Patial log exclude ignored files
+2013-04-19 01:54:37 -     - Show window
+2013-04-19 01:54:37 - 
+2013-04-19 01:54:37 - FileSync Start
+2013-04-19 01:54:37 - Info: {ERROR: Missing source path  |  ERROR: Missing source path}
+2013-04-19 01:54:37 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:54:37 - FileSync Completed
+2013-04-19 01:54:40 - Exit FileSync
+2013-04-19 01:54:43 - 
+2013-04-19 01:54:43 - Start FileSync
+2013-04-19 01:54:44 - Execution configuration:
+2013-04-19 01:54:44 -     - Source Folder: 
+2013-04-19 01:54:44 -     - Target Folder: 
+2013-04-19 01:54:44 -     - No backup
+2013-04-19 01:54:44 -     - Data synchronization
+2013-04-19 01:54:44 -     - No extra ignore file pattern
+2013-04-19 01:54:44 -     - Patial log exclude ignored files
+2013-04-19 01:54:44 -     - Show window
+2013-04-19 01:54:44 - 
+2013-04-19 01:54:44 - FileSync Start
+2013-04-19 01:54:44 - Info: {ERROR: Missing source path  |  ERROR: Missing source path}
+2013-04-19 01:54:44 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:54:44 - FileSync Completed
+2013-04-19 01:54:48 - Exit FileSync
+2013-04-19 01:55:45 - 
+2013-04-19 01:55:45 - Start FileSync
+2013-04-19 01:55:45 - Execution configuration:
+2013-04-19 01:55:45 -     - Source Folder: 
+2013-04-19 01:55:45 -     - Target Folder: 
+2013-04-19 01:55:45 -     - No backup
+2013-04-19 01:55:45 -     - Data synchronization
+2013-04-19 01:55:45 -     - No extra ignore file pattern
+2013-04-19 01:55:45 -     - Patial log exclude ignored files
+2013-04-19 01:55:45 -     - Show window
+2013-04-19 01:55:45 - 
+2013-04-19 01:55:45 - FileSync Start
+2013-04-19 01:55:45 - Info: {ERROR: Missing source path  |  ERROR: Missing source path}
+2013-04-19 01:55:45 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:55:45 - FileSync Completed
+2013-04-19 01:55:50 - Exit FileSync
+2013-04-19 01:56:36 - 
+2013-04-19 01:56:36 - Start FileSync
+2013-04-19 01:56:55 - FileCheck started for [C:\program files] [e:\temp\program files] []
+2013-04-19 01:56:55 - Execution configuration:
+2013-04-19 01:56:55 -     - Source Folder: C:\program files
+2013-04-19 01:56:55 -     - Target Folder: e:\temp\program files
+2013-04-19 01:56:55 -     - No backup
+2013-04-19 01:56:55 -     - Check folder only
+2013-04-19 01:56:55 -     - No extra ignore file pattern
+2013-04-19 01:56:55 -     - Patial log exclude ignored files
+2013-04-19 01:56:55 -     - Show window
+2013-04-19 01:56:55 - 
+2013-04-19 01:56:55 - FileCheck Start
+2013-04-19 01:56:56 - Info: {#### Exceution Error ####  |  Access to the path 'C:\program files\WindowsApps' is denied.}
+2013-04-19 01:56:56 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:56:56 - FileCheck Completed
+2013-04-19 01:56:59 - FileCheck started for [C:\program files] [e:\temp\program files] []
+2013-04-19 01:56:59 - Execution configuration:
+2013-04-19 01:56:59 -     - Source Folder: C:\program files
+2013-04-19 01:56:59 -     - Target Folder: e:\temp\program files
+2013-04-19 01:56:59 -     - No backup
+2013-04-19 01:56:59 -     - Check folder only
+2013-04-19 01:56:59 -     - No extra ignore file pattern
+2013-04-19 01:56:59 -     - Patial log exclude ignored files
+2013-04-19 01:56:59 -     - Show window
+2013-04-19 01:56:59 - 
+2013-04-19 01:56:59 - FileCheck Start
+2013-04-19 01:57:00 - Info: {#### Exceution Error ####  |  Access to the path 'C:\program files\WindowsApps' is denied.}
+2013-04-19 01:57:00 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:57:00 - FileCheck Completed
+2013-04-19 01:57:01 - FileCheck started for [C:\program files] [e:\temp\program files] []
+2013-04-19 01:57:01 - Execution configuration:
+2013-04-19 01:57:01 -     - Source Folder: C:\program files
+2013-04-19 01:57:01 -     - Target Folder: e:\temp\program files
+2013-04-19 01:57:01 -     - No backup
+2013-04-19 01:57:01 -     - Check folder only
+2013-04-19 01:57:01 -     - No extra ignore file pattern
+2013-04-19 01:57:01 -     - Patial log exclude ignored files
+2013-04-19 01:57:01 -     - Show window
+2013-04-19 01:57:01 - 
+2013-04-19 01:57:01 - FileCheck Start
+2013-04-19 01:57:01 - Info: {#### Exceution Error ####  |  Access to the path 'C:\program files\WindowsApps' is denied.}
+2013-04-19 01:57:01 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:57:01 - FileCheck Completed
+2013-04-19 01:57:02 - FileCheck started for [C:\program files] [e:\temp\program files] []
+2013-04-19 01:57:02 - Execution configuration:
+2013-04-19 01:57:02 -     - Source Folder: C:\program files
+2013-04-19 01:57:02 -     - Target Folder: e:\temp\program files
+2013-04-19 01:57:02 -     - No backup
+2013-04-19 01:57:02 -     - Check folder only
+2013-04-19 01:57:02 -     - No extra ignore file pattern
+2013-04-19 01:57:02 -     - Patial log exclude ignored files
+2013-04-19 01:57:02 -     - Show window
+2013-04-19 01:57:02 - 
+2013-04-19 01:57:02 - FileCheck Start
+2013-04-19 01:57:03 - Info: {#### Exceution Error ####  |  Access to the path 'C:\program files\WindowsApps' is denied.}
+2013-04-19 01:57:03 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:57:03 - FileCheck Completed
+2013-04-19 01:57:07 - FileSync started for [C:\program files] [e:\temp\program files] []
+2013-04-19 01:57:07 - Execution configuration:
+2013-04-19 01:57:07 -     - Source Folder: C:\program files
+2013-04-19 01:57:07 -     - Target Folder: e:\temp\program files
+2013-04-19 01:57:07 -     - No backup
+2013-04-19 01:57:07 -     - Data synchronization
+2013-04-19 01:57:07 -     - No extra ignore file pattern
+2013-04-19 01:57:07 -     - Patial log exclude ignored files
+2013-04-19 01:57:07 -     - Show window
+2013-04-19 01:57:07 - 
+2013-04-19 01:57:08 - FileSync Start
+2013-04-19 01:57:08 - Info: {#### Exceution Error ####  |  Access to the path 'C:\program files\WindowsApps' is denied.}
+2013-04-19 01:57:08 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:57:08 - FileSync Completed
+2013-04-19 01:57:17 - FileSync started for [C:\program files] [e:\temp\program files] []
+2013-04-19 01:57:17 - Execution configuration:
+2013-04-19 01:57:17 -     - Source Folder: C:\program files
+2013-04-19 01:57:17 -     - Target Folder: e:\temp\program files
+2013-04-19 01:57:17 -     - No backup
+2013-04-19 01:57:17 -     - Data synchronization
+2013-04-19 01:57:17 -     - No extra ignore file pattern
+2013-04-19 01:57:17 -     - Patial log exclude ignored files
+2013-04-19 01:57:17 -     - Show window
+2013-04-19 01:57:17 - 
+2013-04-19 01:57:17 - FileSync Start
+2013-04-19 01:57:17 - Info: {#### Exceution Error ####  |  Access to the path 'C:\program files\WindowsApps' is denied.}
+2013-04-19 01:57:17 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 01:57:17 - FileSync Completed
+2013-04-19 01:57:31 - FileSync started for [C:\program files] [e:\temp\program files] []
+2013-04-19 01:57:31 - Execution configuration:
+2013-04-19 01:57:31 -     - Source Folder: C:\program files
+2013-04-19 01:57:31 -     - Target Folder: e:\temp\program files
+2013-04-19 01:57:31 -     - No backup
+2013-04-19 01:57:31 -     - Data synchronization
+2013-04-19 01:57:31 -     - No extra ignore file pattern
+2013-04-19 01:57:31 -     - Patial log exclude ignored files
+2013-04-19 01:57:31 -     - Show window
+2013-04-19 01:57:31 - 
+2013-04-19 01:57:31 - FileSync Start
+2013-04-19 01:57:31 - Info: {[A] desktop.ini  |  }
+2013-04-19 01:57:31 - Info: {[A] [\7-Zip]  |  }
+2013-04-19 01:57:31 - Info: {[A] [\AutoHotkey]  |  }
+2013-04-19 01:57:31 - Info: {[A] [\Common Files]  |  }
+2013-04-19 01:57:32 - Info: {[A] [\Hyper-V]  |  }
+2013-04-19 01:57:32 - Info: {[A] [\IIS]  |  }
+2013-04-19 01:57:32 - Info: {[A] [\Internet Explorer]  |  }
+2013-04-19 01:57:32 - Info: {[A] [\Java]  |  }
+2013-04-19 01:57:40 - Exit FileSync
+2013-04-19 01:59:55 - 
+2013-04-19 01:59:55 - Start FileSync
+2013-04-19 02:00:09 - FileSync started for [c:\program files] [e:\temp\program files] []
+2013-04-19 02:00:09 - Execution configuration:
+2013-04-19 02:00:09 -     - Source Folder: c:\program files
+2013-04-19 02:00:09 -     - Target Folder: e:\temp\program files
+2013-04-19 02:00:09 -     - No backup
+2013-04-19 02:00:09 -     - Data synchronization
+2013-04-19 02:00:09 -     - No extra ignore file pattern
+2013-04-19 02:00:09 -     - Patial log exclude ignored files
+2013-04-19 02:00:09 -     - Show window
+2013-04-19 02:00:09 - 
+2013-04-19 02:00:09 - FileSync Start
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-attach.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-charts.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-core.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-coredump.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-heapdump.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-host.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-host-remote.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-host-views.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-jmx.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-jvm.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-jvmstat.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-modules-appui.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-profiler.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-profiling.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-sa.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-sampler.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-threaddump.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-tools.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\com-sun-tools-visualvm-uisupport.xml  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-netbeans-api-visual.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-netbeans-core-execution.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-netbeans-core-io-ui.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-netbeans-core-output2.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-netbeans-modules-core-kit.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-netbeans-modules-favorites.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-netbeans-modules-options-keymap.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-netbeans-modules-print.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-netbeans-modules-spi-actions.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-openide-compat.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-openide-execution.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-openide-options.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] Java\jdk1.7.0_17\lib\visualvm\visualvm\config\Modules\org-openide-util-enumerations.xml_hidden  |  }
+2013-04-19 02:00:09 - Info: {[A] [Java\jdk1.7.0_17\lib\visualvm\visualvm\core]  |  }
+2013-04-19 02:00:09 - Info: {[A] [Java\jdk1.7.0_17\lib\visualvm\visualvm\modules]  |  }
+2013-04-19 02:00:09 - Info: {[A] [Java\jdk1.7.0_17\lib\visualvm\visualvm\update_tracking]  |  }
+2013-04-19 02:00:09 - Info: {[A] [Java\jre7]  |  }
+2013-04-19 02:00:10 - Info: {[A] [\Logitech]  |  }
+2013-04-19 02:00:11 - Info: {[A] [\Microsoft Analysis Services]  |  }
+2013-04-19 02:00:11 - Info: {[A] [\Microsoft Help Viewer]  |  }
+2013-04-19 02:00:11 - Info: {[A] [\Microsoft Office]  |  }
+2013-04-19 02:00:26 - Info: {[A] [\Microsoft SQL Server]  |  }
+2013-04-19 02:00:26 - Info: {[A] [\Microsoft SQL Server Compact Edition]  |  }
+2013-04-19 02:00:26 - Info: {[A] [\Microsoft Sync Framework]  |  }
+2013-04-19 02:00:27 - Info: {[A] [\Microsoft Synchronization Services]  |  }
+2013-04-19 02:00:27 - Info: {[A] [\Microsoft Visual Studio 10.0]  |  }
+2013-04-19 02:00:27 - Info: {[A] [\Microsoft.NET]  |  }
+2013-04-19 02:00:27 - Info: {[A] [\MSBuild]  |  }
+2013-04-19 02:00:27 - Info: {[A] [\NVIDIA Corporation]  |  }
+2013-04-19 02:00:34 - Info: {[A] [\Reference Assemblies]  |  }
+2013-04-19 02:00:35 - Info: {[A] [\TaoBrowser]  |  }
+2013-04-19 02:00:36 - Info: {[A] [\TrueCrypt]  |  }
+2013-04-19 02:00:36 - Info: {[A] [\Uninstall Information]  |  }
+2013-04-19 02:00:36 - Info: {[A] [\Windows Defender]  |  }
+2013-04-19 02:00:36 - Info: {[A] [\Windows Journal]  |  }
+2013-04-19 02:00:37 - Info: {[A] [\Windows Mail]  |  }
+2013-04-19 02:00:37 - Info: {[A] [\Windows Media Player]  |  }
+2013-04-19 02:00:37 - Info: {[A] [\Windows Multimedia Platform]  |  }
+2013-04-19 02:00:37 - Info: {[A] [\Windows NT]  |  }
+2013-04-19 02:00:37 - Info: {[A] [\Windows Photo Viewer]  |  }
+2013-04-19 02:00:38 - Info: {[A] [\Windows Portable Devices]  |  }
+2013-04-19 02:00:38 - Info: {[A] [\Windows Sidebar]  |  }
+2013-04-19 02:00:38 - Info: {[A] [\WindowsApps]  |  }
+2013-04-19 02:00:38 - Info: {#### Exceution Error ####  |  Access to the path 'c:\program files\WindowsApps' is denied.}
+2013-04-19 02:00:38 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 02:00:38 - FileSync Completed
+2013-04-19 02:00:45 - Exit FileSync
+2013-04-19 02:04:08 - 
+2013-04-19 02:04:08 - Start FileSync
+2013-04-19 02:04:22 - FileCheck started for [c:\program files] [e:\temp\program files] []
+2013-04-19 02:04:22 - Execution configuration:
+2013-04-19 02:04:22 -     - Source Folder: c:\program files
+2013-04-19 02:04:22 -     - Target Folder: e:\temp\program files
+2013-04-19 02:04:22 -     - No backup
+2013-04-19 02:04:22 -     - Check folder only
+2013-04-19 02:04:22 -     - No extra ignore file pattern
+2013-04-19 02:04:22 -     - Patial log exclude ignored files
+2013-04-19 02:04:22 -     - Show window
+2013-04-19 02:04:22 - 
+2013-04-19 02:04:22 - FileCheck Start
+2013-04-19 02:04:22 - Info: {#### Exceution Error ####  |  Access to the path 'c:\program files\WindowsApps' is denied.}
+2013-04-19 02:04:22 - Info: {[A] [\Wireshark]  |  }
+2013-04-19 02:04:58 - 
+2013-04-19 02:04:58 - Start FileSync
+2013-04-19 02:05:11 - FileCheck started for [c:\program files] [e:\temp\program files] []
+2013-04-19 02:05:11 - Execution configuration:
+2013-04-19 02:05:11 -     - Source Folder: c:\program files
+2013-04-19 02:05:11 -     - Target Folder: e:\temp\program files
+2013-04-19 02:05:11 -     - No backup
+2013-04-19 02:05:11 -     - Check folder only
+2013-04-19 02:05:11 -     - No extra ignore file pattern
+2013-04-19 02:05:11 -     - Patial log exclude ignored files
+2013-04-19 02:05:11 -     - Show window
+2013-04-19 02:05:11 - 
+2013-04-19 02:05:11 - FileCheck Start
+2013-04-19 02:05:11 - Info: {#### Exceution Error ####  |  Access to the path 'c:\program files\WindowsApps' is denied.}
+2013-04-19 02:05:11 - Info: {[A] [\Wireshark]  |  }
+2013-04-19 02:05:11 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 02:05:11 - FileCheck Completed
+2013-04-19 02:05:13 - FileCheck started for [c:\program files] [e:\temp\program files] []
+2013-04-19 02:05:13 - Execution configuration:
+2013-04-19 02:05:13 -     - Source Folder: c:\program files
+2013-04-19 02:05:13 -     - Target Folder: e:\temp\program files
+2013-04-19 02:05:13 -     - No backup
+2013-04-19 02:05:13 -     - Check folder only
+2013-04-19 02:05:13 -     - No extra ignore file pattern
+2013-04-19 02:05:13 -     - Patial log exclude ignored files
+2013-04-19 02:05:13 -     - Show window
+2013-04-19 02:05:13 - 
+2013-04-19 02:05:13 - FileCheck Start
+2013-04-19 02:05:13 - Info: {#### Exceution Error ####  |  Access to the path 'c:\program files\WindowsApps' is denied.}
+2013-04-19 02:05:13 - Info: {[A] [\Wireshark]  |  }
+2013-04-19 02:05:13 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 02:05:13 - FileCheck Completed
+2013-04-19 02:05:15 - FileSync started for [c:\program files] [e:\temp\program files] []
+2013-04-19 02:05:15 - Execution configuration:
+2013-04-19 02:05:15 -     - Source Folder: c:\program files
+2013-04-19 02:05:15 -     - Target Folder: e:\temp\program files
+2013-04-19 02:05:15 -     - No backup
+2013-04-19 02:05:15 -     - Data synchronization
+2013-04-19 02:05:15 -     - No extra ignore file pattern
+2013-04-19 02:05:15 -     - Patial log exclude ignored files
+2013-04-19 02:05:15 -     - Show window
+2013-04-19 02:05:15 - 
+2013-04-19 02:05:15 - FileSync Start
+2013-04-19 02:05:15 - Info: {#### Exceution Error ####  |  Access to the path 'c:\program files\WindowsApps' is denied.}
+2013-04-19 02:05:15 - Info: {[A] [\Wireshark]  |  }
+2013-04-19 02:05:16 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 02:05:16 - FileSync Completed
+2013-04-19 02:05:17 - FileSync started for [c:\program files] [e:\temp\program files] []
+2013-04-19 02:05:17 - Execution configuration:
+2013-04-19 02:05:17 -     - Source Folder: c:\program files
+2013-04-19 02:05:17 -     - Target Folder: e:\temp\program files
+2013-04-19 02:05:17 -     - No backup
+2013-04-19 02:05:17 -     - Data synchronization
+2013-04-19 02:05:17 -     - No extra ignore file pattern
+2013-04-19 02:05:17 -     - Patial log exclude ignored files
+2013-04-19 02:05:17 -     - Show window
+2013-04-19 02:05:17 - 
+2013-04-19 02:05:17 - FileSync Start
+2013-04-19 02:05:18 - FileSync started for [c:\program files] [e:\temp\program files] []
+2013-04-19 02:05:18 - Execution configuration:
+2013-04-19 02:05:18 -     - Source Folder: c:\program files
+2013-04-19 02:05:18 -     - Target Folder: e:\temp\program files
+2013-04-19 02:05:18 -     - No backup
+2013-04-19 02:05:18 -     - Data synchronization
+2013-04-19 02:05:18 -     - No extra ignore file pattern
+2013-04-19 02:05:18 -     - Patial log exclude ignored files
+2013-04-19 02:05:18 -     - Show window
+2013-04-19 02:05:18 - 
+2013-04-19 02:05:18 - FileSync Start
+2013-04-19 02:05:19 - Info: {#### Exceution Error ####  |  Access to the path 'c:\program files\WindowsApps' is denied.}
+2013-04-19 02:05:19 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 02:05:19 - FileSync Completed
+2013-04-19 02:05:25 - Exit FileSync
+2013-04-19 09:06:35 - 
+2013-04-19 09:06:35 - Start FileSync
+2013-04-19 09:06:45 - Exit FileSync
+2013-04-19 10:01:38 - 
+2013-04-19 10:01:38 - Start FileSync
+2013-04-19 10:01:40 - Exit FileSync
+2013-04-19 11:05:11 - 
+2013-04-19 11:05:11 - Start FileSync
+2013-04-19 11:10:18 - FileCheck started for [E:\Temp\CheckFile\CheckFile\IMHP.source] [E:\Temp\CheckFile\CheckFile\IMHP.target] [E:\Temp\CheckFile\CheckFile\IMHP.backup]
+2013-04-19 11:10:18 - Execution configuration:
+2013-04-19 11:10:18 -     - Source Folder: E:\Temp\CheckFile\CheckFile\IMHP.source
+2013-04-19 11:10:18 -     - Target Folder: E:\Temp\CheckFile\CheckFile\IMHP.target
+2013-04-19 11:10:18 -     - Backup Folder: E:\Temp\CheckFile\CheckFile\IMHP.backup
+2013-04-19 11:10:18 -     - Check folder only
+2013-04-19 11:10:18 -     - No extra ignore file pattern
+2013-04-19 11:10:18 -     - Patial log exclude ignored files
+2013-04-19 11:10:18 -     - Show window
+2013-04-19 11:10:18 - 
+2013-04-19 11:10:18 - FileCheck Start
+2013-04-19 11:10:18 - Info: {[U] Both-002.txt  |  [U] Both-002.txt}
+2013-04-19 11:10:18 - Info: {[A] Source-Only.txt  |  }
+2013-04-19 11:10:18 - Info: {  |  [D] Target-Only.txt}
+2013-04-19 11:10:18 - Info: {  |  [D] [Lost-files]}
+2013-04-19 11:10:18 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:10:18 - Info: {[A] [Source Folder]  |  }
+2013-04-19 11:10:18 - Info: {  |  [D] [Target Folder]}
+2013-04-19 11:10:18 - Info: {[U] UnMatch Folder\A01.txt  |  [U] UnMatch Folder\A01.txt}
+2013-04-19 11:10:18 - Info: {[U] UnMatch Folder\A02.txt  |  [U] UnMatch Folder\A02.txt}
+2013-04-19 11:10:18 - Info: {  |  [D] UnMatch Folder\aaa.xlsx}
+2013-04-19 11:10:18 - Info: {[A] [UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:10:18 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:10:18 - FileCheck Completed
+2013-04-19 11:10:24 - FileSync started for [E:\Temp\CheckFile\CheckFile\IMHP.source] [E:\Temp\CheckFile\CheckFile\IMHP.target] [E:\Temp\CheckFile\CheckFile\IMHP.backup]
+2013-04-19 11:10:24 - Execution configuration:
+2013-04-19 11:10:24 -     - Source Folder: E:\Temp\CheckFile\CheckFile\IMHP.source
+2013-04-19 11:10:24 -     - Target Folder: E:\Temp\CheckFile\CheckFile\IMHP.target
+2013-04-19 11:10:24 -     - Backup Folder: E:\Temp\CheckFile\CheckFile\IMHP.backup
+2013-04-19 11:10:24 -     - Data synchronization
+2013-04-19 11:10:24 -     - No extra ignore file pattern
+2013-04-19 11:10:24 -     - Patial log exclude ignored files
+2013-04-19 11:10:24 -     - Show window
+2013-04-19 11:10:24 - 
+2013-04-19 11:10:24 - FileSync Start
+2013-04-19 11:10:25 - Info: {[U] Both-002.txt  |  [U] Both-002.txt}
+2013-04-19 11:10:25 - Info: {[A] Source-Only.txt  |  }
+2013-04-19 11:10:25 - Info: {  |  [D] Target-Only.txt}
+2013-04-19 11:10:25 - Info: {  |  [D] [Lost-files]}
+2013-04-19 11:10:25 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:10:25 - Info: {[A] [Source Folder]  |  }
+2013-04-19 11:10:25 - Info: {  |  [D] [Target Folder]}
+2013-04-19 11:10:25 - Info: {[U] UnMatch Folder\A01.txt  |  [U] UnMatch Folder\A01.txt}
+2013-04-19 11:10:25 - Info: {[U] UnMatch Folder\A02.txt  |  [U] UnMatch Folder\A02.txt}
+2013-04-19 11:10:25 - Info: {  |  [D] UnMatch Folder\aaa.xlsx}
+2013-04-19 11:10:25 - Info: {[A] [UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:10:25 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:10:25 - FileSync Completed
+2013-04-19 11:10:32 - FileCheck started for [E:\Temp\CheckFile\CheckFile\IMHP.source] [E:\Temp\CheckFile\CheckFile\IMHP.target] [E:\Temp\CheckFile\CheckFile\IMHP.backup]
+2013-04-19 11:10:32 - Execution configuration:
+2013-04-19 11:10:32 -     - Source Folder: E:\Temp\CheckFile\CheckFile\IMHP.source
+2013-04-19 11:10:32 -     - Target Folder: E:\Temp\CheckFile\CheckFile\IMHP.target
+2013-04-19 11:10:32 -     - Backup Folder: E:\Temp\CheckFile\CheckFile\IMHP.backup
+2013-04-19 11:10:32 -     - Check folder only
+2013-04-19 11:10:32 -     - No extra ignore file pattern
+2013-04-19 11:10:32 -     - Patial log exclude ignored files
+2013-04-19 11:10:32 -     - Show window
+2013-04-19 11:10:32 - 
+2013-04-19 11:10:32 - FileCheck Start
+2013-04-19 11:10:32 - Info: {[A] UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:10:32 - Info: {[A] UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:10:32 - Info: {[A] UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:10:32 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:10:32 - FileCheck Completed
+2013-04-19 11:11:07 - FileCheck started for [E:\Temp\CheckFile\CheckFile\IMHP.source] [E:\Temp\CheckFile\CheckFile\IMHP.target] [E:\Temp\CheckFile\CheckFile\IMHP.backup]
+2013-04-19 11:11:07 - Execution configuration:
+2013-04-19 11:11:07 -     - Source Folder: E:\Temp\CheckFile\CheckFile\IMHP.source
+2013-04-19 11:11:07 -     - Target Folder: E:\Temp\CheckFile\CheckFile\IMHP.target
+2013-04-19 11:11:07 -     - Backup Folder: E:\Temp\CheckFile\CheckFile\IMHP.backup
+2013-04-19 11:11:07 -     - Check folder only
+2013-04-19 11:11:07 -     - No extra ignore file pattern
+2013-04-19 11:11:07 -     - Patial log exclude ignored files
+2013-04-19 11:11:07 -     - Show window
+2013-04-19 11:11:07 - 
+2013-04-19 11:11:07 - FileCheck Start
+2013-04-19 11:11:07 - Info: {[A] UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:11:07 - Info: {[A] UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:11:07 - Info: {[A] UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:11:07 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:11:07 - FileCheck Completed
+2013-04-19 11:11:12 - Exit FileSync
+2013-04-19 11:36:01 - 
+2013-04-19 11:36:01 - Start FileSync
+2013-04-19 11:36:21 - FileSync started for [F:\FileSync\CheckFile\IMHP.source] [F:\FileSync\CheckFile\IMHP.target] []
+2013-04-19 11:36:21 - Execution configuration:
+2013-04-19 11:36:21 -     - Source Folder: F:\FileSync\CheckFile\IMHP.source
+2013-04-19 11:36:21 -     - Target Folder: F:\FileSync\CheckFile\IMHP.target
+2013-04-19 11:36:21 -     - No backup
+2013-04-19 11:36:21 -     - Data synchronization
+2013-04-19 11:36:21 -     - No extra ignore file pattern
+2013-04-19 11:36:21 -     - Full log include ignored files
+2013-04-19 11:36:21 -     - Show window
+2013-04-19 11:36:21 - 
+2013-04-19 11:36:21 - FileSync Start
+2013-04-19 11:36:21 - Info: {[A] [NewFolder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Both-002.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Microsoft Office Excel Worksheet.xlsx  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\New Text Document.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Both-001.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Both-002.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\Match Folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A01.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A02.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\Match Folder\A03.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Both-002.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\Source Folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\a\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-001.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Both-002.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Match Folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A01.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A02.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\Match Folder\A03.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Both-002.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-1]  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-2\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\New Microsoft Office Word Document.docx  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Source-Only.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\NewFolder\Sub-folder-3\Backup.folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\Source Folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A01.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A02.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\A03.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Test.docx  |  }
+2013-04-19 11:36:21 - Info: {[I] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\~$Test.docx  |  }
+2013-04-19 11:36:21 - Info: {[A] [NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder]  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A01.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A02.txt  |  }
+2013-04-19 11:36:21 - Info: {[A] NewFolder\Sub-folder-3\Backup.folder\b\UnMatch Folder\Sub-folder\A03.txt  |  }
+2013-04-19 11:36:21 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:36:21 - FileSync Completed
+2013-04-19 11:36:31 - Exit FileSync
+2013-04-19 11:43:15 - 
+2013-04-19 11:43:15 - Start FileSync
+2013-04-19 11:43:15 - "C:\my.source\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\SCCP"   -t "F:\hacs2f7\SCCP-2"   -b "F:\hacs2f7.bak\SCCP-2"  
+
+2013-04-19 11:43:15 - Invalid option: 
+
+2013-04-19 11:43:51 - 
+2013-04-19 11:43:51 - Start FileSync
+2013-04-19 11:43:51 - "C:\my.source\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\SCCP"   -t "F:\hacs2f7\SCCP-2"   -b "F:\hacs2f7.bak\SCCP-2"  
+
+2013-04-19 11:44:20 - 
+2013-04-19 11:44:20 - Start FileSync
+2013-04-19 11:44:20 - "C:\my.source\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\SCCP"   -t "F:\hacs2f7\SCCP-2"   -b "F:\hacs2f7.bak\SCCP-2"
+2013-04-19 11:44:25 - Execution configuration:
+2013-04-19 11:44:25 -     - Source Folder: \\hacs2f7\SCCP
+2013-04-19 11:44:25 -     - Target Folder: F:\hacs2f7\SCCP-2
+2013-04-19 11:44:25 -     - Backup Folder: F:\hacs2f7.bak\SCCP-2
+2013-04-19 11:44:25 -     - Data synchronization
+2013-04-19 11:44:25 -     - No extra ignore file pattern
+2013-04-19 11:44:25 -     - Patial log exclude ignored files
+2013-04-19 11:44:25 -     - Show window
+2013-04-19 11:44:25 - 
+2013-04-19 11:44:25 - FileSync Start
+2013-04-19 11:44:25 - Info: {[A] .DS_Store  |  }
+2013-04-19 11:44:25 - Info: {[A] Centre name (20100817).xls  |  }
+2013-04-19 11:44:25 - Info: {[A] HAFM Data.doc  |  }
+2013-04-19 11:44:25 - Info: {[A] SCCP 20051019.ppt  |  }
+2013-04-19 11:44:25 - Info: {[A] [_SYNCAPP]  |  }
+2013-04-19 11:44:25 - Info: {[A] _SYNCAPP\metadata.xml  |  }
+2013-04-19 11:44:25 - Info: {[A] [20060310]  |  }
+2013-04-19 11:44:25 - Info: {[A] 20060310\Minimal Dataset (20060308).xls  |  }
+2013-04-19 11:44:25 - Info: {[A] 20060310\SRU Comments (Mr Mark).doc  |  }
+2013-04-19 11:44:25 - Info: {[A] 20060310\Workplan for SCCP (20060310)_v2.xls  |  }
+2013-04-19 11:44:25 - Info: {[A] 20060310\Workplan for SCCP (20060310)_v3.xls  |  }
+2013-04-19 11:44:25 - Info: {[A] 20060310\Workplan for SCCP (20060310)_v4.xls  |  }
+2013-04-19 11:44:25 - Info: {[A] [20060804]  |  }
+2013-04-19 11:44:25 - Info: {[A] 20060804\SCCP_Baseline1.doc  |  }
+2013-04-19 11:44:26 - Info: {[A] 20060804\SCCP_Baseline2.doc  |  }
+2013-04-19 11:44:26 - Info: {[A] 20060804\SCCP_Changes.doc  |  }
+2013-04-19 11:44:26 - Info: {[A] 20060804\SCCP_ScreenCapture.doc  |  }
+2013-04-19 11:44:26 - Info: {[A] 20060804\Workplan  dataset for SCCP (20060606)_v4.6.1.xls  |  }
+2013-04-19 11:44:26 - Info: {[A] [20110328]  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\Entity.xls  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\Entity_Ellen_20090605_original.xls  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\Minimal Data Set -SCCP.doc  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\Minimal Data Set -SCCP_20110328.doc  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\SCCP Utilization (20110401).xls  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\SCCP.pptx  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\SCCP_after_meeting.pptx  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\Workplan  dataset for SCCP (20060830)_v5(final).xls  |  }
+2013-04-19 11:44:26 - Info: {[A] [20110328\20110328_proposed_screen_change]  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\12Month.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Month.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_1.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_2.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_3.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_4.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_5.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_6.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\3Month.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\6Month.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline1.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline1_after.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline1_before.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline2.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline2_after.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline2_before.TIF  |  }
+2013-04-19 11:44:26 - Info: {[A] [20110328\20110421_enhancement_list_from_Colen]  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancement List.xls  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancements (To be confirmed).pptx  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancements v02 Eva.pptx  |  }
+2013-04-19 11:44:26 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancements.pptx  |  }
+2013-04-19 11:44:27 - Info: {[A] [Backend Script]  |  }
+2013-04-19 11:44:27 - Info: {[A] [Backend Script\update_20100119]  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100119\delete_corp.sql  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100119\SCCP.zip  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100119\update_20100119_printout.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] [Backend Script\update_20100325]  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100325\delete_corp.sql  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100325\SCCP_20100325.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100325\update_20100325_printout.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] [Backend Script\update_20100427]  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100427\delete_corp_SCCP.sql  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100427\Printout_20100427.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100427\SCCP_20100427.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] [Backend Script\update_20100817]  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100817\delete_corp_SCCP.sql  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100817\SCCP_20100817.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100817\SCCP_printout_20100817.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] [Backend Script\update_20100914]  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100914\delete_corp_SCCP.sql  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100914\SCCP_20100914.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] [Backend Script\update_20100927]  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100927\delete_corp_SCCP.sql  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20100927\SCCP_20100927.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] [Backend Script\update_20110614]  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20110614\delete_corp_SCCP.sql  |  }
+2013-04-19 11:44:27 - Info: {[A] Backend Script\update_20110614\SCCP_20110614.7z  |  }
+2013-04-19 11:44:27 - Info: {[A] [Data]  |  }
+2013-04-19 11:44:27 - Info: {[A] [Data\Data_20061017]  |  }
+2013-04-19 11:44:27 - Info: {[A] Data\Data_20061017\SCCP_20061017.xls  |  }
+2013-04-19 11:44:27 - Info: {[A] [Data\Data_20061122]  |  }
+2013-04-19 11:44:27 - Info: {[A] Data\Data_20061122\SCCP_20061122.xls  |  }
+2013-04-19 11:44:27 - Info: {[A] [Data\ePR_Interface]  |  }
+2013-04-19 11:44:27 - Info: {[A] Data\ePR_Interface\SCCP.CMS_SP1_AN.xlsx  |  }
+2013-04-19 11:44:27 - Info: {[A] [Document]  |  }
+2013-04-19 11:44:27 - Info: {[A] Document\N011927 v1.2.doc  |  }
+2013-04-19 11:44:27 - Info: {[A] Document\SCCP.pdf  |  }
+2013-04-19 11:44:27 - Info: {[A] Document\SCCP_CR.xls  |  }
+2013-04-19 11:44:27 - Info: {[A] Document\Workplan  dataset for SCCP (20060830)_v5(20070913).xls  |  }
+2013-04-19 11:44:27 - Info: {[A] [EDI Interface]  |  }
+2013-04-19 11:44:27 - Info: {[A] EDI Interface\20060924 - (Vicky) Entity.msg  |  }
+2013-04-19 11:44:27 - Info: {[A] EDI Interface\Copy of Entity_Ellen_20090605_original.xls  |  }
+2013-04-19 11:44:27 - Info: {[A] EDI Interface\Entity.20090604.xls  |  }
+2013-04-19 11:44:27 - Info: {[A] EDI Interface\Entity.20090605.xls  |  }
+2013-04-19 11:44:28 - Info: {[A] EDI Interface\Entity.xls  |  }
+2013-04-19 11:44:28 - Info: {[A] EDI Interface\Entity_Ellen_20090605_original.xls  |  }
+2013-04-19 11:44:28 - Info: {[A] EDI Interface\sccp.zip  |  }
+2013-04-19 11:44:28 - Info: {[A] [EDI Interface\sccp]  |  }
+2013-04-19 11:44:28 - Info: {[A] EDI Interface\sccp\20060726101100684FFD429365EE39EFE7A06AC02735618.xml  |  }
+2013-04-19 11:44:28 - Info: {[A] EDI Interface\sccp\translate_grr_hl7.txt  |  }
+2013-04-19 11:44:28 - Info: {[A] [GCD_document]  |  }
+2013-04-19 11:44:28 - Info: {[A] GCD_document\CMSAF(CS9).zip  |  }
+2013-04-19 11:44:28 - Info: {[A] GCD_document\CMS_GCD_Eclipse.zip  |  }
+2013-04-19 11:44:29 - Info: {[A] GCD_document\GCD - Form_maint v1.0.2.doc  |  }
+2013-04-19 11:44:29 - Info: {[A] GCD_document\GCD - GrrForWeb v3.0.0.doc  |  }
+2013-04-19 11:44:30 - Info: {[A] [GCD_document\guide]  |  }
+2013-04-19 11:44:30 - Info: {[A] GCD_document\guide\GCD_Development_Guidelines_1_0_0.doc  |  }
+2013-04-19 11:44:30 - Info: {[A] GCD_document\guide\GCD_Development_Guidelines_2_0_0.doc  |  }
+2013-04-19 11:44:30 - Info: {[A] [GRR-Question]  |  }
+2013-04-19 11:44:30 - Info: {[A] GRR-Question\GRR-Question.20060314.doc  |  }
+2013-04-19 11:44:30 - Info: {[A] GRR-Question\Problem and Limitation for SCCP 2.1 .doc  |  }
+2013-04-19 11:44:30 - Info: {[A] [Java - Test Plan]  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\Functional Specification.doc  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP-4th-Test-Summary.doc  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP-4th-Test-Summary.txt  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP_TestPlan.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090331.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090407.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090515.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090518.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090522_2.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090526.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090526_3.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\SCCP_TestPlan_200907.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] [Java - Test Plan\4th_error_screen]  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\4th_error_screen\02_Wrong_position_of_DropDown_1.TIF  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\4th_error_screen\03_Wrong_position_of_DropDown_2.TIF  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\4th_error_screen\04_Applet_request_prompt_x6times_when_print.TIF  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout1.TIF  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout2.TIF  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout3.TIF  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout4.TIF  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout5.TIF  |  }
+2013-04-19 11:44:30 - Info: {[A] [Java - Test Plan\Shared]  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\Shared\SCCP_TestPlan_20090331.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] Java - Test Plan\Shared\SCCP_TestPlan_20090407.xls  |  }
+2013-04-19 11:44:30 - Info: {[A] [Meeting]  |  }
+2013-04-19 11:44:30 - Info: {[A] [Meeting\20060209]  |  }
+2013-04-19 11:44:30 - Info: {[A] Meeting\20060209\1st SCCP Meeting_20060209 rev.ppt  |  }
+2013-04-19 11:44:31 - Info: {[A] Meeting\20060209\1st SCCP Meeting_20060209.ppt  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\20060209\Data_Definiation_20060209 rev.xls  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\20060209\Discussion.doc  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\20060209\Worksheet in 1st SCCP Meeting_20060209 rev 2.xls  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\20060209\Worksheet in 1st SCCP Meeting_20060209 rev.xls  |  }
+2013-04-19 11:44:32 - Info: {[A] [Meeting\20110427 SCCP]  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\20110427 SCCP\SCCP Enhancements (Oct 2011).pptx  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\20110427 SCCP\SCCP GRR Form Proposed Enhancements (For IT).pptx  |  }
+2013-04-19 11:44:32 - Info: {[A] [Meeting\201108xx_web]  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\201108xx_web\201108xx_web.ppt  |  }
+2013-04-19 11:44:32 - Info: {[A] [Meeting\201206xx]  |  }
+2013-04-19 11:44:32 - Info: {[A] [Meeting\201206xx\CodeWalkthrough]  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\201206xx\CodeWalkthrough\CS2-Walkthru_SCCP.xlsx  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\201206xx\CodeWalkthrough\grrObjSCCP.js  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\201206xx\CodeWalkthrough\grrObjSCCP.txt  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\201206xx\CodeWalkthrough\SCCP.ppt  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\201206xx\CodeWalkthrough\sccp.v1.js  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\201206xx\CodeWalkthrough\sccp.v1.txt  |  }
+2013-04-19 11:44:32 - Info: {[A] [Meeting\201206xx\CodeWalkthrough\After Meeting]  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\201206xx\CodeWalkthrough\After Meeting\CS2-Walkthru_SCCP.xlsx  |  }
+2013-04-19 11:44:32 - Info: {[A] [Meeting\201206xx\progress report]  |  }
+2013-04-19 11:44:32 - Info: {[A] Meeting\201206xx\progress report\SCCP_Revamp_Progress.pptx  |  }
+2013-04-19 11:44:33 - Info: {[A] [Meeting\20120829]  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\20120829 SCCP Screen.ppt  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\Revamp Feedback.pptx  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\SCCP Feedback - GCD.docx  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\SCCP Feedback.docx  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\screen.zip  |  }
+2013-04-19 11:44:33 - Info: {[A] [Meeting\20120829\Backup]  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\Backup\SCCP Problem.docx  |  }
+2013-04-19 11:44:33 - Info: {[A] [Meeting\20120829\screen]  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\screen\sccp_12monthFU.jpg  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\screen\sccp_1monthFU.jpg  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\screen\sccp_1weekFU.jpg  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\screen\sccp_3monthFU.jpg  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\screen\sccp_6monthFU.jpg  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\screen\sccp_baseline1.jpg  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120829\screen\sccp_baseline2.jpg  |  }
+2013-04-19 11:44:33 - Info: {[A] [Meeting\20120911]  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20120911\20120910 SCCP enhancement v1 0.xls  |  }
+2013-04-19 11:44:33 - Info: {[A] [Meeting\20130321]  |  }
+2013-04-19 11:44:33 - Info: {[A] Meeting\20130321\screen.pptx  |  }
+2013-04-19 11:44:33 - Info: {[A] [Schedule]  |  }
+2013-04-19 11:44:33 - Info: {[A] Schedule\Revamp Schedule.v.1.pptx  |  }
+2013-04-19 11:44:33 - Info: {[A] Schedule\Revamp Schedule.v.2.pptx  |  }
+2013-04-19 11:44:33 - Info: {[A] Schedule\Revamp Schedule.v.3.pptx  |  }
+2013-04-19 11:44:33 - Info: {[A] [Screen]  |  }
+2013-04-19 11:44:33 - Info: {[A] Screen\20060217_PB_Input_jpg.zip  |  }
+2013-04-19 11:44:33 - Info: {[A] Screen\20060309_PB_Enquiry_jpg.zip  |  }
+2013-04-19 11:44:33 - Info: {[A] Screen\20060504_PB_Input_jpg.zip  |  }
+2013-04-19 11:44:33 - Info: {[A] Screen\20060504_PB_Printout_jpg.zip  |  }
+2013-04-19 11:44:33 - Info: {[A] Screen\20060512_PB_Input_jpg.zip  |  }
+2013-04-19 11:44:33 - Info: {[A] Screen\20060519_PB_Input_jpg.zip  |  }
+2013-04-19 11:44:33 - Info: {[A] Screen\20060621_PB_Input_jpg.zip  |  }
+2013-04-19 11:44:33 - Info: {[A] Screen\20060623_PB_Enquiry_jpg.zip  |  }
+2013-04-19 11:44:34 - Info: {[A] Screen\20060623_PB_Input_jpg.zip  |  }
+2013-04-19 11:44:34 - Info: {[A] Screen\20060623_PB_Printout_jpg.zip  |  }
+2013-04-19 11:44:34 - Info: {[A] Screen\20060803_PB_Input_jpg.zip  |  }
+2013-04-19 11:44:34 - Info: {[A] Screen\20060901_PB_Input_jpg.zip  |  }
+2013-04-19 11:44:34 - Info: {[A] Screen\20070306_PB_Printout_bmp.zip  |  }
+2013-04-19 11:44:34 - Info: {[A] Screen\20090721_PB_Input_bmp.zip  |  }
+2013-04-19 11:44:34 - Info: {[A] Screen\20090721_PB_Input_jpg.zip  |  }
+2013-04-19 11:44:34 - Info: {[A] Screen\SCCP_definition_example.doc  |  }
+2013-04-19 11:44:34 - Info: {[A] Screen\SCCP_NRT_details_screen.doc  |  }
+2013-04-19 11:44:34 - Info: {[A] [Specification]  |  }
+2013-04-19 11:44:34 - Info: {[A] Specification\SCCP.v.0.1.docx  |  }
+2013-04-19 11:44:34 - Info: {[A] Specification\SCCP_Functional_Spec.v.0.2.docx  |  }
+2013-04-19 11:44:35 - Info: {[A] [Specification\background-color-sample]  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\highlight_screen(gray_1).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\highlight_screen(gray_2).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\highlight_screen(gray_3).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\highlight_screen(green_1).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\highlight_screen(green_2).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\normal_screen(gray_1).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\normal_screen(gray_2).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\normal_screen(gray_3).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\normal_screen(green_1).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\background-color-sample\normal_screen(green_2).jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] [Specification\Center Name]  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Center Name\Mapping.xlsx  |  }
+2013-04-19 11:44:35 - Info: {[A] [Specification\Data Definition]  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Data Definition\SCCP.v1.xlsx  |  }
+2013-04-19 11:44:35 - Info: {[A] [Specification\Dataset]  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Dataset\Minimal Dataset.xls  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Dataset\Questionaire.doc  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Dataset\SCC1st.txt  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Dataset\SCC2nd.txt  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Dataset\SCCP minimal database.doc  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060412)_v4.4.xls  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060830)_v5(20070913).xls  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060830)_v5(final).xls  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060830)_v5.xls  |  }
+2013-04-19 11:44:35 - Info: {[A] [Specification\Enhancement]  |  }
+2013-04-19 11:44:35 - Info: {[A] [Specification\Enhancement\20121205]  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Enhancement\20121205\after-1.jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Enhancement\20121205\after-2.jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Enhancement\20121205\Before.jpg  |  }
+2013-04-19 11:44:35 - Info: {[A] [Specification\Functional Specification]  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Functional Specification\FlowChart_SCCP_0.1.graphml  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Functional Specification\FlowChart_SCCP_0.2.graphml  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Functional Specification\SCCP (web).v.0.1.docx  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Functional Specification\SCCP (web).v.0.2.docx  |  }
+2013-04-19 11:44:35 - Info: {[A] [Specification\Functional Specification\log flow graph]  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Functional Specification\log flow graph\deleteflow.graphml  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Functional Specification\log flow graph\historyflow.graphml  |  }
+2013-04-19 11:44:35 - Info: {[A] Specification\Functional Specification\log flow graph\logflow.graphml  |  }
+2013-04-19 11:44:36 - Info: {[A] Specification\Functional Specification\log flow graph\printflow.graphml  |  }
+2013-04-19 11:44:36 - Info: {[A] Specification\Functional Specification\log flow graph\saveflow.graphml  |  }
+2013-04-19 11:44:36 - Info: {[A] Specification\Functional Specification\log flow graph\signflow.graphml  |  }
+2013-04-19 11:44:36 - Info: {[A] Specification\Functional Specification\log flow graph\unsignflow.graphml  |  }
+2013-04-19 11:44:36 - Info: {[A] [Support]  |  }
+2013-04-19 11:44:36 - Info: {[A] [Support\2012]  |  }
+2013-04-19 11:44:36 - Info: {[A] [Support\2012\20121115_update_local_data_setting]  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\Hospital_List_data.xls  |  }
+2013-04-19 11:44:36 - Info: {[A] [Support\2012\20121115_update_local_data_setting\HKEC_HKWC]  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\20121115.IP.zip  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\RE  GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_CCH_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_DKC_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_FYK_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_GH_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_ML_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_PYN_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_QMH_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_RH_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_SJH_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_TWE_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_TWH_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_WCH_AN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] [Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC]  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\RE  GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_AHN.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_BBH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_BH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_CPH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_HHH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_HKE.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_KH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_NDH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_POH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_PWH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_QEH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_SCH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_SH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_SLH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_TKO.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_TMH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_TPH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_UCH.log  |  }
+2013-04-19 11:44:36 - Info: {[A] [Support\2012\20121115_update_local_data_setting\KWC]  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KWC\RE  GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\KWC\sccp.out  |  }
+2013-04-19 11:44:36 - Info: {[A] [Support\2013]  |  }
+2013-04-19 11:44:36 - Info: {[A] [Support\2013\20130327_cross_hospital_edit]  |  }
+2013-04-19 11:44:36 - Info: {[A] Support\2013\20130327_cross_hospital_edit\grr_requests_20130327.xls  |  }
+2013-04-19 11:44:36 - Info: {[A] [Test Plan]  |  }
+2013-04-19 11:44:36 - Info: {[A] Test Plan\CMS Test Plan_minimum_set.xls  |  }
+2013-04-19 11:44:36 - Info: {[A] Test Plan\FW Updated FPS test plan.doc  |  }
+2013-04-19 11:44:36 - Info: {[A] Test Plan\SCCP_Test Plan_minimum_set.xls  |  }
+2013-04-19 11:44:36 - Info: {[A] [Test Plan\By IMP]  |  }
+2013-04-19 11:44:37 - Info: {[A] [Test Plan\By IMP\201201]  |  }
+2013-04-19 11:44:37 - Info: {[A] Test Plan\By IMP\201201\Test Cases for SCCP.v1.1.doc  |  }
+2013-04-19 11:44:37 - Info: {[A] [Test Plan\UAT]  |  }
+2013-04-19 11:44:37 - Info: {[A] Test Plan\UAT\Test Cases for SCCP.v1.1.doc  |  }
+2013-04-19 11:44:37 - Info: {[A] [Timing]  |  }
+2013-04-19 11:44:37 - Info: {[A] Timing\SCCP_Timing.xls  |  }
+2013-04-19 11:44:37 - Info: {[A] [Utilization]  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\SCCP Utilization (20130402).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\utilization_update_20130402.sql  |  }
+2013-04-19 11:44:37 - Info: {[A] [Utilization\backup]  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20070601).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20070706).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20070801).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20070911).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20071002) updated.xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20071002).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20071101).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20071203).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080102).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080204).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080304).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080402).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080516).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080604).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080702).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080801).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080901).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20081015).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20081104).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20081202).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090104).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090106).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090202).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090302).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090320).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090401).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090504).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090601).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090703).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090803).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20090907).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20091002).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20091102).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20091201).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20100119).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20100201).xls  |  }
+2013-04-19 11:44:37 - Info: {[A] Utilization\backup\SCCP Utilization (20100203).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100226).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100301).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100301)_bk.xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100401).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100423).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100503).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100601).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100702).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100802).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100817).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100901).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100914).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100927).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20101004).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20101101).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20101201).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110103).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110201).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110301).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110401).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110503).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110601).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110614).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110704).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110801).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110901).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110916).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20111003).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20111101).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20111201).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120103).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120201).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120301).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120402).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120502).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120601).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120703).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120801).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120903).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20121003).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20121101).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20121203).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20130102).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20130201).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\SCCP Utilization (20130301).xls  |  }
+2013-04-19 11:44:38 - Info: {[A] Utilization\backup\utilization_update_20130301.sql  |  }
+2013-04-19 11:44:38 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:44:39 - Exit FileSync
+2013-04-19 11:45:25 - 
+2013-04-19 11:45:25 - Start FileSync
+2013-04-19 11:45:25 - "C:\my.source\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\SCCP"   -t "F:\hacs2f7\SCCP-2"   -b "F:\hacs2f7.bak\SCCP-2"
+2013-04-19 11:45:25 - Execution configuration:
+2013-04-19 11:45:25 -     - Source Folder: \\hacs2f7\SCCP
+2013-04-19 11:45:25 -     - Target Folder: F:\hacs2f7\SCCP-2
+2013-04-19 11:45:25 -     - Backup Folder: F:\hacs2f7.bak\SCCP-2
+2013-04-19 11:45:25 -     - Data synchronization
+2013-04-19 11:45:25 -     - No extra ignore file pattern
+2013-04-19 11:45:25 -     - Patial log exclude ignored files
+2013-04-19 11:45:25 -     - Show window
+2013-04-19 11:45:25 - 
+2013-04-19 11:45:25 - FileSync Start
+2013-04-19 11:45:25 - Info: {[A] .DS_Store  |  }
+2013-04-19 11:45:25 - Info: {[A] Centre name (20100817).xls  |  }
+2013-04-19 11:45:25 - Info: {[A] HAFM Data.doc  |  }
+2013-04-19 11:45:25 - Info: {[A] SCCP 20051019.ppt  |  }
+2013-04-19 11:45:25 - Info: {[A] [_SYNCAPP]  |  }
+2013-04-19 11:45:25 - Info: {[A] _SYNCAPP\metadata.xml  |  }
+2013-04-19 11:45:25 - Info: {[A] [20060310]  |  }
+2013-04-19 11:45:25 - Info: {[A] 20060310\Minimal Dataset (20060308).xls  |  }
+2013-04-19 11:45:25 - Info: {[A] 20060310\SRU Comments (Mr Mark).doc  |  }
+2013-04-19 11:45:25 - Info: {[A] 20060310\Workplan for SCCP (20060310)_v2.xls  |  }
+2013-04-19 11:45:25 - Info: {[A] 20060310\Workplan for SCCP (20060310)_v3.xls  |  }
+2013-04-19 11:45:25 - Info: {[A] 20060310\Workplan for SCCP (20060310)_v4.xls  |  }
+2013-04-19 11:45:25 - Info: {[A] [20060804]  |  }
+2013-04-19 11:45:25 - Info: {[A] 20060804\SCCP_Baseline1.doc  |  }
+2013-04-19 11:45:26 - Info: {[A] 20060804\SCCP_Baseline2.doc  |  }
+2013-04-19 11:45:26 - Info: {[A] 20060804\SCCP_Changes.doc  |  }
+2013-04-19 11:45:26 - Info: {[A] 20060804\SCCP_ScreenCapture.doc  |  }
+2013-04-19 11:45:26 - Info: {[A] 20060804\Workplan  dataset for SCCP (20060606)_v4.6.1.xls  |  }
+2013-04-19 11:45:26 - Info: {[A] [20110328]  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\Entity.xls  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\Entity_Ellen_20090605_original.xls  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\Minimal Data Set -SCCP.doc  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\Minimal Data Set -SCCP_20110328.doc  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\SCCP Utilization (20110401).xls  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\SCCP.pptx  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\SCCP_after_meeting.pptx  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\Workplan  dataset for SCCP (20060830)_v5(final).xls  |  }
+2013-04-19 11:45:26 - Info: {[A] [20110328\20110328_proposed_screen_change]  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\12Month.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Month.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_1.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_2.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_3.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_4.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_5.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_6.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\3Month.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\6Month.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline1.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline1_after.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline1_before.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline2.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline2_after.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline2_before.TIF  |  }
+2013-04-19 11:45:26 - Info: {[A] [20110328\20110421_enhancement_list_from_Colen]  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancement List.xls  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancements (To be confirmed).pptx  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancements v02 Eva.pptx  |  }
+2013-04-19 11:45:26 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancements.pptx  |  }
+2013-04-19 11:45:26 - Info: {[A] [Backend Script]  |  }
+2013-04-19 11:45:26 - Info: {[A] [Backend Script\update_20100119]  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100119\delete_corp.sql  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100119\SCCP.zip  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100119\update_20100119_printout.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] [Backend Script\update_20100325]  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100325\delete_corp.sql  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100325\SCCP_20100325.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100325\update_20100325_printout.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] [Backend Script\update_20100427]  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100427\delete_corp_SCCP.sql  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100427\Printout_20100427.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100427\SCCP_20100427.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] [Backend Script\update_20100817]  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100817\delete_corp_SCCP.sql  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100817\SCCP_20100817.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100817\SCCP_printout_20100817.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] [Backend Script\update_20100914]  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100914\delete_corp_SCCP.sql  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100914\SCCP_20100914.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] [Backend Script\update_20100927]  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100927\delete_corp_SCCP.sql  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20100927\SCCP_20100927.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] [Backend Script\update_20110614]  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20110614\delete_corp_SCCP.sql  |  }
+2013-04-19 11:45:26 - Info: {[A] Backend Script\update_20110614\SCCP_20110614.7z  |  }
+2013-04-19 11:45:26 - Info: {[A] [Data]  |  }
+2013-04-19 11:45:26 - Info: {[A] [Data\Data_20061017]  |  }
+2013-04-19 11:45:26 - Info: {[A] Data\Data_20061017\SCCP_20061017.xls  |  }
+2013-04-19 11:45:26 - Info: {[A] [Data\Data_20061122]  |  }
+2013-04-19 11:45:26 - Info: {[A] Data\Data_20061122\SCCP_20061122.xls  |  }
+2013-04-19 11:45:26 - Info: {[A] [Data\ePR_Interface]  |  }
+2013-04-19 11:45:26 - Info: {[A] Data\ePR_Interface\SCCP.CMS_SP1_AN.xlsx  |  }
+2013-04-19 11:45:26 - Info: {[A] [Document]  |  }
+2013-04-19 11:45:26 - Info: {[A] Document\N011927 v1.2.doc  |  }
+2013-04-19 11:45:27 - Info: {[A] Document\SCCP.pdf  |  }
+2013-04-19 11:45:27 - Info: {[A] Document\SCCP_CR.xls  |  }
+2013-04-19 11:45:27 - Info: {[A] Document\Workplan  dataset for SCCP (20060830)_v5(20070913).xls  |  }
+2013-04-19 11:45:27 - Info: {[A] [EDI Interface]  |  }
+2013-04-19 11:45:27 - Info: {[A] EDI Interface\20060924 - (Vicky) Entity.msg  |  }
+2013-04-19 11:45:27 - Info: {[A] EDI Interface\Copy of Entity_Ellen_20090605_original.xls  |  }
+2013-04-19 11:45:27 - Info: {[A] EDI Interface\Entity.20090604.xls  |  }
+2013-04-19 11:45:27 - Info: {[A] EDI Interface\Entity.20090605.xls  |  }
+2013-04-19 11:45:27 - Info: {[A] EDI Interface\Entity.xls  |  }
+2013-04-19 11:45:27 - Info: {[A] EDI Interface\Entity_Ellen_20090605_original.xls  |  }
+2013-04-19 11:45:27 - Info: {[A] EDI Interface\sccp.zip  |  }
+2013-04-19 11:45:27 - Info: {[A] [EDI Interface\sccp]  |  }
+2013-04-19 11:45:27 - Info: {[A] EDI Interface\sccp\20060726101100684FFD429365EE39EFE7A06AC02735618.xml  |  }
+2013-04-19 11:45:27 - Info: {[A] EDI Interface\sccp\translate_grr_hl7.txt  |  }
+2013-04-19 11:45:27 - Info: {[A] [GCD_document]  |  }
+2013-04-19 11:45:27 - Info: {[A] GCD_document\CMSAF(CS9).zip  |  }
+2013-04-19 11:45:27 - Info: {[A] GCD_document\CMS_GCD_Eclipse.zip  |  }
+2013-04-19 11:45:28 - Info: {[A] GCD_document\GCD - Form_maint v1.0.2.doc  |  }
+2013-04-19 11:45:28 - Info: {[A] GCD_document\GCD - GrrForWeb v3.0.0.doc  |  }
+2013-04-19 11:45:28 - Info: {[A] [GCD_document\guide]  |  }
+2013-04-19 11:45:28 - Info: {[A] GCD_document\guide\GCD_Development_Guidelines_1_0_0.doc  |  }
+2013-04-19 11:45:28 - Info: {[A] GCD_document\guide\GCD_Development_Guidelines_2_0_0.doc  |  }
+2013-04-19 11:45:29 - Info: {[A] [GRR-Question]  |  }
+2013-04-19 11:45:29 - Info: {[A] GRR-Question\GRR-Question.20060314.doc  |  }
+2013-04-19 11:45:29 - Info: {[A] GRR-Question\Problem and Limitation for SCCP 2.1 .doc  |  }
+2013-04-19 11:45:29 - Info: {[A] [Java - Test Plan]  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\Functional Specification.doc  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP-4th-Test-Summary.doc  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP-4th-Test-Summary.txt  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP_TestPlan.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090331.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090407.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090515.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090518.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090522_2.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090526.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090526_3.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\SCCP_TestPlan_200907.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] [Java - Test Plan\4th_error_screen]  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\4th_error_screen\02_Wrong_position_of_DropDown_1.TIF  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\4th_error_screen\03_Wrong_position_of_DropDown_2.TIF  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\4th_error_screen\04_Applet_request_prompt_x6times_when_print.TIF  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout1.TIF  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout2.TIF  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout3.TIF  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout4.TIF  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout5.TIF  |  }
+2013-04-19 11:45:29 - Info: {[A] [Java - Test Plan\Shared]  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\Shared\SCCP_TestPlan_20090331.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] Java - Test Plan\Shared\SCCP_TestPlan_20090407.xls  |  }
+2013-04-19 11:45:29 - Info: {[A] [Meeting]  |  }
+2013-04-19 11:45:29 - Info: {[A] [Meeting\20060209]  |  }
+2013-04-19 11:45:29 - Info: {[A] Meeting\20060209\1st SCCP Meeting_20060209 rev.ppt  |  }
+2013-04-19 11:45:29 - Info: {[A] Meeting\20060209\1st SCCP Meeting_20060209.ppt  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20060209\Data_Definiation_20060209 rev.xls  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20060209\Discussion.doc  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20060209\Worksheet in 1st SCCP Meeting_20060209 rev 2.xls  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20060209\Worksheet in 1st SCCP Meeting_20060209 rev.xls  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\20110427 SCCP]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20110427 SCCP\SCCP Enhancements (Oct 2011).pptx  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20110427 SCCP\SCCP GRR Form Proposed Enhancements (For IT).pptx  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\201108xx_web]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\201108xx_web\201108xx_web.ppt  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\201206xx]  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\201206xx\CodeWalkthrough]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\201206xx\CodeWalkthrough\CS2-Walkthru_SCCP.xlsx  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\201206xx\CodeWalkthrough\grrObjSCCP.js  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\201206xx\CodeWalkthrough\grrObjSCCP.txt  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\201206xx\CodeWalkthrough\SCCP.ppt  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\201206xx\CodeWalkthrough\sccp.v1.js  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\201206xx\CodeWalkthrough\sccp.v1.txt  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\201206xx\CodeWalkthrough\After Meeting]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\201206xx\CodeWalkthrough\After Meeting\CS2-Walkthru_SCCP.xlsx  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\201206xx\progress report]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\201206xx\progress report\SCCP_Revamp_Progress.pptx  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\20120829]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\20120829 SCCP Screen.ppt  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\Revamp Feedback.pptx  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\SCCP Feedback - GCD.docx  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\SCCP Feedback.docx  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\screen.zip  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\20120829\Backup]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\Backup\SCCP Problem.docx  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\20120829\screen]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\screen\sccp_12monthFU.jpg  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\screen\sccp_1monthFU.jpg  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\screen\sccp_1weekFU.jpg  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\screen\sccp_3monthFU.jpg  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\screen\sccp_6monthFU.jpg  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\screen\sccp_baseline1.jpg  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120829\screen\sccp_baseline2.jpg  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\20120911]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20120911\20120910 SCCP enhancement v1 0.xls  |  }
+2013-04-19 11:45:30 - Info: {[A] [Meeting\20130321]  |  }
+2013-04-19 11:45:30 - Info: {[A] Meeting\20130321\screen.pptx  |  }
+2013-04-19 11:45:30 - Info: {[A] [Schedule]  |  }
+2013-04-19 11:45:30 - Info: {[A] Schedule\Revamp Schedule.v.1.pptx  |  }
+2013-04-19 11:45:30 - Info: {[A] Schedule\Revamp Schedule.v.2.pptx  |  }
+2013-04-19 11:45:30 - Info: {[A] Schedule\Revamp Schedule.v.3.pptx  |  }
+2013-04-19 11:45:30 - Info: {[A] [Screen]  |  }
+2013-04-19 11:45:30 - Info: {[A] Screen\20060217_PB_Input_jpg.zip  |  }
+2013-04-19 11:45:30 - Info: {[A] Screen\20060309_PB_Enquiry_jpg.zip  |  }
+2013-04-19 11:45:30 - Info: {[A] Screen\20060504_PB_Input_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20060504_PB_Printout_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20060512_PB_Input_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20060519_PB_Input_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20060621_PB_Input_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20060623_PB_Enquiry_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20060623_PB_Input_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20060623_PB_Printout_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20060803_PB_Input_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20060901_PB_Input_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20070306_PB_Printout_bmp.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20090721_PB_Input_bmp.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\20090721_PB_Input_jpg.zip  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\SCCP_definition_example.doc  |  }
+2013-04-19 11:45:31 - Info: {[A] Screen\SCCP_NRT_details_screen.doc  |  }
+2013-04-19 11:45:31 - Info: {[A] [Specification]  |  }
+2013-04-19 11:45:31 - Info: {[A] Specification\SCCP.v.0.1.docx  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\SCCP_Functional_Spec.v.0.2.docx  |  }
+2013-04-19 11:45:32 - Info: {[A] [Specification\background-color-sample]  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\highlight_screen(gray_1).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\highlight_screen(gray_2).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\highlight_screen(gray_3).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\highlight_screen(green_1).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\highlight_screen(green_2).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\normal_screen(gray_1).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\normal_screen(gray_2).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\normal_screen(gray_3).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\normal_screen(green_1).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\background-color-sample\normal_screen(green_2).jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] [Specification\Center Name]  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Center Name\Mapping.xlsx  |  }
+2013-04-19 11:45:32 - Info: {[A] [Specification\Data Definition]  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Data Definition\SCCP.v1.xlsx  |  }
+2013-04-19 11:45:32 - Info: {[A] [Specification\Dataset]  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Dataset\Minimal Dataset.xls  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Dataset\Questionaire.doc  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Dataset\SCC1st.txt  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Dataset\SCC2nd.txt  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Dataset\SCCP minimal database.doc  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060412)_v4.4.xls  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060830)_v5(20070913).xls  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060830)_v5(final).xls  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060830)_v5.xls  |  }
+2013-04-19 11:45:32 - Info: {[A] [Specification\Enhancement]  |  }
+2013-04-19 11:45:32 - Info: {[A] [Specification\Enhancement\20121205]  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Enhancement\20121205\after-1.jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Enhancement\20121205\after-2.jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Enhancement\20121205\Before.jpg  |  }
+2013-04-19 11:45:32 - Info: {[A] [Specification\Functional Specification]  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Functional Specification\FlowChart_SCCP_0.1.graphml  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Functional Specification\FlowChart_SCCP_0.2.graphml  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Functional Specification\SCCP (web).v.0.1.docx  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Functional Specification\SCCP (web).v.0.2.docx  |  }
+2013-04-19 11:45:32 - Info: {[A] [Specification\Functional Specification\log flow graph]  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Functional Specification\log flow graph\deleteflow.graphml  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Functional Specification\log flow graph\historyflow.graphml  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Functional Specification\log flow graph\logflow.graphml  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Functional Specification\log flow graph\printflow.graphml  |  }
+2013-04-19 11:45:32 - Info: {[A] Specification\Functional Specification\log flow graph\saveflow.graphml  |  }
+2013-04-19 11:45:33 - Info: {[A] Specification\Functional Specification\log flow graph\signflow.graphml  |  }
+2013-04-19 11:45:33 - Info: {[A] Specification\Functional Specification\log flow graph\unsignflow.graphml  |  }
+2013-04-19 11:45:33 - Info: {[A] [Support]  |  }
+2013-04-19 11:45:33 - Info: {[A] [Support\2012]  |  }
+2013-04-19 11:45:33 - Info: {[A] [Support\2012\20121115_update_local_data_setting]  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\Hospital_List_data.xls  |  }
+2013-04-19 11:45:33 - Info: {[A] [Support\2012\20121115_update_local_data_setting\HKEC_HKWC]  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\20121115.IP.zip  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\RE  GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_CCH_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_DKC_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_FYK_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_GH_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_ML_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_PYN_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_QMH_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_RH_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_SJH_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_TWE_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_TWH_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_WCH_AN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] [Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC]  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\RE  GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_AHN.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_BBH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_BH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_CPH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_HHH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_HKE.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_KH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_NDH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_POH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_PWH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_QEH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_SCH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_SH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_SLH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_TKO.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_TMH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_TPH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_UCH.log  |  }
+2013-04-19 11:45:33 - Info: {[A] [Support\2012\20121115_update_local_data_setting\KWC]  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KWC\RE  GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2012\20121115_update_local_data_setting\KWC\sccp.out  |  }
+2013-04-19 11:45:33 - Info: {[A] [Support\2013]  |  }
+2013-04-19 11:45:33 - Info: {[A] [Support\2013\20130327_cross_hospital_edit]  |  }
+2013-04-19 11:45:33 - Info: {[A] Support\2013\20130327_cross_hospital_edit\grr_requests_20130327.xls  |  }
+2013-04-19 11:45:33 - Info: {[A] [Test Plan]  |  }
+2013-04-19 11:45:33 - Info: {[A] Test Plan\CMS Test Plan_minimum_set.xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Test Plan\FW Updated FPS test plan.doc  |  }
+2013-04-19 11:45:33 - Info: {[A] Test Plan\SCCP_Test Plan_minimum_set.xls  |  }
+2013-04-19 11:45:33 - Info: {[A] [Test Plan\By IMP]  |  }
+2013-04-19 11:45:33 - Info: {[A] [Test Plan\By IMP\201201]  |  }
+2013-04-19 11:45:33 - Info: {[A] Test Plan\By IMP\201201\Test Cases for SCCP.v1.1.doc  |  }
+2013-04-19 11:45:33 - Info: {[A] [Test Plan\UAT]  |  }
+2013-04-19 11:45:33 - Info: {[A] Test Plan\UAT\Test Cases for SCCP.v1.1.doc  |  }
+2013-04-19 11:45:33 - Info: {[A] [Timing]  |  }
+2013-04-19 11:45:33 - Info: {[A] Timing\SCCP_Timing.xls  |  }
+2013-04-19 11:45:33 - Info: {[A] [Utilization]  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\SCCP Utilization (20130402).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\utilization_update_20130402.sql  |  }
+2013-04-19 11:45:33 - Info: {[A] [Utilization\backup]  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20070601).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20070706).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20070801).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20070911).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20071002) updated.xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20071002).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20071101).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20071203).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20080102).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20080204).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20080304).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20080402).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20080516).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20080604).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20080702).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20080801).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20080901).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20081015).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20081104).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20081202).xls  |  }
+2013-04-19 11:45:33 - Info: {[A] Utilization\backup\SCCP Utilization (20090104).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090106).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090202).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090302).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090320).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090401).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090504).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090601).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090703).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090803).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20090907).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20091002).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20091102).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20091201).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100119).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100201).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100203).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100226).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100301).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100301)_bk.xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100401).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100423).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100503).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100601).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100702).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100802).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100817).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100901).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100914).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20100927).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20101004).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20101101).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20101201).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110103).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110201).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110301).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110401).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110503).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110601).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110614).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110704).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110801).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110901).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20110916).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20111003).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20111101).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20111201).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20120103).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20120201).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20120301).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20120402).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20120502).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20120601).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20120703).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20120801).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20120903).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20121003).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20121101).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20121203).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20130102).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20130201).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\SCCP Utilization (20130301).xls  |  }
+2013-04-19 11:45:34 - Info: {[A] Utilization\backup\utilization_update_20130301.sql  |  }
+2013-04-19 11:45:34 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:45:34 - Exit FileSync
+2013-04-19 11:45:34 - FileSync Completed
+2013-04-19 11:51:06 - 
+2013-04-19 11:51:06 - Start FileSync v0.1.0.21281
+2013-04-19 11:51:06 - "C:\my.source\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\SCCP"   -t "F:\hacs2f7\SCCP-2"   -b "F:\hacs2f7.bak\SCCP-2"
+2013-04-19 11:51:06 - Execution configuration:
+2013-04-19 11:51:06 -     - Source Folder: \\hacs2f7\SCCP
+2013-04-19 11:51:06 -     - Target Folder: F:\hacs2f7\SCCP-2
+2013-04-19 11:51:06 -     - Backup Folder: F:\hacs2f7.bak\SCCP-2
+2013-04-19 11:51:06 -     - Data synchronization
+2013-04-19 11:51:06 -     - No extra ignore file pattern
+2013-04-19 11:51:06 -     - Patial log exclude ignored files
+2013-04-19 11:51:06 -     - Show window
+2013-04-19 11:51:06 - 
+2013-04-19 11:51:06 - FileSync Start
+2013-04-19 11:51:06 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 11:51:07 - Exit FileSync
+2013-04-19 11:51:07 - FileSync Completed
+2013-04-19 17:54:28 - Start FileSync v0.1.0.31999
+2013-04-19 17:54:28 - "C:\my.source\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\SCCP"   -t "F:\hacs2f7\SCCP-2"   -b "F:\hacs2f7.bak\SCCP-2"
+2013-04-19 17:54:29 - Execution configuration:
+2013-04-19 17:54:29 -     - Source Folder: \\hacs2f7\SCCP
+2013-04-19 17:54:29 -     - Target Folder: F:\hacs2f7\SCCP-2
+2013-04-19 17:54:29 -     - Backup Folder: F:\hacs2f7.bak\SCCP-2
+2013-04-19 17:54:29 -     - Data synchronization
+2013-04-19 17:54:29 -     - No extra ignore file pattern
+2013-04-19 17:54:29 -     - Partial log exclude ignored files
+2013-04-19 17:54:29 -     - Show window
+2013-04-19 17:54:29 - 
+2013-04-19 17:54:29 - FileSync Start
+2013-04-19 17:54:29 - Info: {[A] .DS_Store  |  }
+2013-04-19 17:54:29 - Info: {[A] Centre name (20100817).xls  |  }
+2013-04-19 17:54:29 - Info: {[A] HAFM Data.doc  |  }
+2013-04-19 17:54:29 - Info: {[A] SCCP 20051019.ppt  |  }
+2013-04-19 17:54:29 - Info: {[A] [_SYNCAPP]  |  }
+2013-04-19 17:54:29 - Info: {[A] _SYNCAPP\metadata.xml  |  }
+2013-04-19 17:54:29 - Info: {[A] [20060310]  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060310\Minimal Dataset (20060308).xls  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060310\SRU Comments (Mr Mark).doc  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060310\Workplan for SCCP (20060310)_v2.xls  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060310\Workplan for SCCP (20060310)_v3.xls  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060310\Workplan for SCCP (20060310)_v4.xls  |  }
+2013-04-19 17:54:29 - Info: {[A] [20060804]  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060804\SCCP_Baseline1.doc  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060804\SCCP_Baseline2.doc  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060804\SCCP_Changes.doc  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060804\SCCP_ScreenCapture.doc  |  }
+2013-04-19 17:54:29 - Info: {[A] 20060804\Workplan  dataset for SCCP (20060606)_v4.6.1.xls  |  }
+2013-04-19 17:54:29 - Info: {[A] [20110328]  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\Entity.xls  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\Entity_Ellen_20090605_original.xls  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\Minimal Data Set -SCCP.doc  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\Minimal Data Set -SCCP_20110328.doc  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\SCCP Utilization (20110401).xls  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\SCCP.pptx  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\SCCP_after_meeting.pptx  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\Workplan  dataset for SCCP (20060830)_v5(final).xls  |  }
+2013-04-19 17:54:29 - Info: {[A] [20110328\20110328_proposed_screen_change]  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\12Month.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\1Month.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_1.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_2.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_3.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_4.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_5.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\1Week_NRT_6.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\3Month.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\6Month.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline1.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline1_after.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline1_before.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline2.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline2_after.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110328_proposed_screen_change\Baseline2_before.TIF  |  }
+2013-04-19 17:54:29 - Info: {[A] [20110328\20110421_enhancement_list_from_Colen]  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancement List.xls  |  }
+2013-04-19 17:54:29 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancements (To be confirmed).pptx  |  }
+2013-04-19 17:54:30 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancements v02 Eva.pptx  |  }
+2013-04-19 17:54:30 - Info: {[A] 20110328\20110421_enhancement_list_from_Colen\SCCP GRR Form Proposed Enhancements.pptx  |  }
+2013-04-19 17:54:30 - Info: {[A] [Backend Script]  |  }
+2013-04-19 17:54:30 - Info: {[A] [Backend Script\update_20100119]  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100119\delete_corp.sql  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100119\SCCP.zip  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100119\update_20100119_printout.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] [Backend Script\update_20100325]  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100325\delete_corp.sql  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100325\SCCP_20100325.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100325\update_20100325_printout.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] [Backend Script\update_20100427]  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100427\delete_corp_SCCP.sql  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100427\Printout_20100427.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100427\SCCP_20100427.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] [Backend Script\update_20100817]  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100817\delete_corp_SCCP.sql  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100817\SCCP_20100817.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100817\SCCP_printout_20100817.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] [Backend Script\update_20100914]  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100914\delete_corp_SCCP.sql  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100914\SCCP_20100914.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] [Backend Script\update_20100927]  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100927\delete_corp_SCCP.sql  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20100927\SCCP_20100927.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] [Backend Script\update_20110614]  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20110614\delete_corp_SCCP.sql  |  }
+2013-04-19 17:54:30 - Info: {[A] Backend Script\update_20110614\SCCP_20110614.7z  |  }
+2013-04-19 17:54:30 - Info: {[A] [Data]  |  }
+2013-04-19 17:54:30 - Info: {[A] [Data\Data_20061017]  |  }
+2013-04-19 17:54:30 - Info: {[A] Data\Data_20061017\SCCP_20061017.xls  |  }
+2013-04-19 17:54:30 - Info: {[A] [Data\Data_20061122]  |  }
+2013-04-19 17:54:30 - Info: {[A] Data\Data_20061122\SCCP_20061122.xls  |  }
+2013-04-19 17:54:30 - Info: {[A] [Data\ePR_Interface]  |  }
+2013-04-19 17:54:30 - Info: {[A] Data\ePR_Interface\SCCP.CMS_SP1_AN.xlsx  |  }
+2013-04-19 17:54:30 - Info: {[A] [Document]  |  }
+2013-04-19 17:54:30 - Info: {[A] Document\N011927 v1.2.doc  |  }
+2013-04-19 17:54:30 - Info: {[A] Document\SCCP.pdf  |  }
+2013-04-19 17:54:30 - Info: {[A] Document\SCCP_CR.xls  |  }
+2013-04-19 17:54:30 - Info: {[A] Document\Workplan  dataset for SCCP (20060830)_v5(20070913).xls  |  }
+2013-04-19 17:54:30 - Info: {[A] [EDI Interface]  |  }
+2013-04-19 17:54:30 - Info: {[A] EDI Interface\20060924 - (Vicky) Entity.msg  |  }
+2013-04-19 17:54:30 - Info: {[A] EDI Interface\Copy of Entity_Ellen_20090605_original.xls  |  }
+2013-04-19 17:54:30 - Info: {[A] EDI Interface\Entity.20090604.xls  |  }
+2013-04-19 17:54:30 - Info: {[A] EDI Interface\Entity.20090605.xls  |  }
+2013-04-19 17:54:30 - Info: {[A] EDI Interface\Entity.xls  |  }
+2013-04-19 17:54:30 - Info: {[A] EDI Interface\Entity_Ellen_20090605_original.xls  |  }
+2013-04-19 17:54:30 - Info: {[A] EDI Interface\sccp.zip  |  }
+2013-04-19 17:54:30 - Info: {[A] [EDI Interface\sccp]  |  }
+2013-04-19 17:54:30 - Info: {[A] EDI Interface\sccp\20060726101100684FFD429365EE39EFE7A06AC02735618.xml  |  }
+2013-04-19 17:54:30 - Info: {[A] EDI Interface\sccp\translate_grr_hl7.txt  |  }
+2013-04-19 17:54:30 - Info: {[A] [GCD_document]  |  }
+2013-04-19 17:54:30 - Info: {[A] GCD_document\CMSAF(CS9).zip  |  }
+2013-04-19 17:54:31 - Info: {[A] GCD_document\CMS_GCD_Eclipse.zip  |  }
+2013-04-19 17:54:32 - Info: {[A] GCD_document\GCD - Form_maint v1.0.2.doc  |  }
+2013-04-19 17:54:32 - Info: {[A] GCD_document\GCD - GrrForWeb v3.0.0.doc  |  }
+2013-04-19 17:54:32 - Info: {[A] [GCD_document\guide]  |  }
+2013-04-19 17:54:32 - Info: {[A] GCD_document\guide\GCD_Development_Guidelines_1_0_0.doc  |  }
+2013-04-19 17:54:32 - Info: {[A] GCD_document\guide\GCD_Development_Guidelines_2_0_0.doc  |  }
+2013-04-19 17:54:32 - Info: {[A] [GRR-Question]  |  }
+2013-04-19 17:54:32 - Info: {[A] GRR-Question\GRR-Question.20060314.doc  |  }
+2013-04-19 17:54:32 - Info: {[A] GRR-Question\Problem and Limitation for SCCP 2.1 .doc  |  }
+2013-04-19 17:54:32 - Info: {[A] [Java - Test Plan]  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\Functional Specification.doc  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP-4th-Test-Summary.doc  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP-4th-Test-Summary.txt  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP_TestPlan.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090331.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090407.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090515.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090518.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090522_2.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090526.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP_TestPlan_20090526_3.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\SCCP_TestPlan_200907.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] [Java - Test Plan\4th_error_screen]  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\4th_error_screen\02_Wrong_position_of_DropDown_1.TIF  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\4th_error_screen\03_Wrong_position_of_DropDown_2.TIF  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\4th_error_screen\04_Applet_request_prompt_x6times_when_print.TIF  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout1.TIF  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout2.TIF  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout3.TIF  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout4.TIF  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\4th_error_screen\05_Printout5.TIF  |  }
+2013-04-19 17:54:32 - Info: {[A] [Java - Test Plan\Shared]  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\Shared\SCCP_TestPlan_20090331.xls  |  }
+2013-04-19 17:54:32 - Info: {[A] Java - Test Plan\Shared\SCCP_TestPlan_20090407.xls  |  }
+2013-04-19 17:54:33 - Info: {[A] [Meeting]  |  }
+2013-04-19 17:54:33 - Info: {[A] [Meeting\20060209]  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\20060209\1st SCCP Meeting_20060209 rev.ppt  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\20060209\1st SCCP Meeting_20060209.ppt  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\20060209\Data_Definiation_20060209 rev.xls  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\20060209\Discussion.doc  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\20060209\Worksheet in 1st SCCP Meeting_20060209 rev 2.xls  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\20060209\Worksheet in 1st SCCP Meeting_20060209 rev.xls  |  }
+2013-04-19 17:54:33 - Info: {[A] [Meeting\20110427 SCCP]  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\20110427 SCCP\SCCP Enhancements (Oct 2011).pptx  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\20110427 SCCP\SCCP GRR Form Proposed Enhancements (For IT).pptx  |  }
+2013-04-19 17:54:33 - Info: {[A] [Meeting\201108xx_web]  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\201108xx_web\201108xx_web.ppt  |  }
+2013-04-19 17:54:33 - Info: {[A] [Meeting\201206xx]  |  }
+2013-04-19 17:54:33 - Info: {[A] [Meeting\201206xx\CodeWalkthrough]  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\201206xx\CodeWalkthrough\CS2-Walkthru_SCCP.xlsx  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\201206xx\CodeWalkthrough\grrObjSCCP.js  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\201206xx\CodeWalkthrough\grrObjSCCP.txt  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\201206xx\CodeWalkthrough\SCCP.ppt  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\201206xx\CodeWalkthrough\sccp.v1.js  |  }
+2013-04-19 17:54:33 - Info: {[A] Meeting\201206xx\CodeWalkthrough\sccp.v1.txt  |  }
+2013-04-19 17:54:33 - Info: {[A] [Meeting\201206xx\CodeWalkthrough\After Meeting]  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\201206xx\CodeWalkthrough\After Meeting\CS2-Walkthru_SCCP.xlsx  |  }
+2013-04-19 17:54:34 - Info: {[A] [Meeting\201206xx\progress report]  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\201206xx\progress report\SCCP_Revamp_Progress.pptx  |  }
+2013-04-19 17:54:34 - Info: {[A] [Meeting\20120829]  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\20120829 SCCP Screen.ppt  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\Revamp Feedback.pptx  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\SCCP Feedback - GCD.docx  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\SCCP Feedback.docx  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\screen.zip  |  }
+2013-04-19 17:54:34 - Info: {[A] [Meeting\20120829\Backup]  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\Backup\SCCP Problem.docx  |  }
+2013-04-19 17:54:34 - Info: {[A] [Meeting\20120829\screen]  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\screen\sccp_12monthFU.jpg  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\screen\sccp_1monthFU.jpg  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\screen\sccp_1weekFU.jpg  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\screen\sccp_3monthFU.jpg  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\screen\sccp_6monthFU.jpg  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\screen\sccp_baseline1.jpg  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120829\screen\sccp_baseline2.jpg  |  }
+2013-04-19 17:54:34 - Info: {[A] [Meeting\20120911]  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20120911\20120910 SCCP enhancement v1 0.xls  |  }
+2013-04-19 17:54:34 - Info: {[A] [Meeting\20130321]  |  }
+2013-04-19 17:54:34 - Info: {[A] Meeting\20130321\screen.pptx  |  }
+2013-04-19 17:54:34 - Info: {[A] [Schedule]  |  }
+2013-04-19 17:54:34 - Info: {[A] Schedule\Revamp Schedule.v.1.pptx  |  }
+2013-04-19 17:54:34 - Info: {[A] Schedule\Revamp Schedule.v.2.pptx  |  }
+2013-04-19 17:54:34 - Info: {[A] Schedule\Revamp Schedule.v.3.pptx  |  }
+2013-04-19 17:54:34 - Info: {[A] [Screen]  |  }
+2013-04-19 17:54:34 - Info: {[A] Screen\20060217_PB_Input_jpg.zip  |  }
+2013-04-19 17:54:34 - Info: {[A] Screen\20060309_PB_Enquiry_jpg.zip  |  }
+2013-04-19 17:54:34 - Info: {[A] Screen\20060504_PB_Input_jpg.zip  |  }
+2013-04-19 17:54:34 - Info: {[A] Screen\20060504_PB_Printout_jpg.zip  |  }
+2013-04-19 17:54:34 - Info: {[A] Screen\20060512_PB_Input_jpg.zip  |  }
+2013-04-19 17:54:34 - Info: {[A] Screen\20060519_PB_Input_jpg.zip  |  }
+2013-04-19 17:54:34 - Info: {[A] Screen\20060621_PB_Input_jpg.zip  |  }
+2013-04-19 17:54:34 - Info: {[A] Screen\20060623_PB_Enquiry_jpg.zip  |  }
+2013-04-19 17:54:35 - Info: {[A] Screen\20060623_PB_Input_jpg.zip  |  }
+2013-04-19 17:54:35 - Info: {[A] Screen\20060623_PB_Printout_jpg.zip  |  }
+2013-04-19 17:54:35 - Info: {[A] Screen\20060803_PB_Input_jpg.zip  |  }
+2013-04-19 17:54:35 - Info: {[A] Screen\20060901_PB_Input_jpg.zip  |  }
+2013-04-19 17:54:35 - Info: {[A] Screen\20070306_PB_Printout_bmp.zip  |  }
+2013-04-19 17:54:35 - Info: {[A] Screen\20090721_PB_Input_bmp.zip  |  }
+2013-04-19 17:54:35 - Info: {[A] Screen\20090721_PB_Input_jpg.zip  |  }
+2013-04-19 17:54:35 - Info: {[A] Screen\SCCP_definition_example.doc  |  }
+2013-04-19 17:54:35 - Info: {[A] Screen\SCCP_NRT_details_screen.doc  |  }
+2013-04-19 17:54:35 - Info: {[A] [Specification]  |  }
+2013-04-19 17:54:35 - Info: {[A] Specification\SCCP.v.0.1.docx  |  }
+2013-04-19 17:54:35 - Info: {[A] Specification\SCCP_Functional_Spec.v.0.2.docx  |  }
+2013-04-19 17:54:36 - Info: {[A] [Specification\background-color-sample]  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\highlight_screen(gray_1).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\highlight_screen(gray_2).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\highlight_screen(gray_3).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\highlight_screen(green_1).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\highlight_screen(green_2).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\normal_screen(gray_1).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\normal_screen(gray_2).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\normal_screen(gray_3).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\normal_screen(green_1).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\background-color-sample\normal_screen(green_2).jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] [Specification\Center Name]  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Center Name\Mapping.xlsx  |  }
+2013-04-19 17:54:36 - Info: {[A] [Specification\Data Definition]  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Data Definition\SCCP.v1.xlsx  |  }
+2013-04-19 17:54:36 - Info: {[A] [Specification\Dataset]  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Dataset\Minimal Dataset.xls  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Dataset\Questionaire.doc  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Dataset\SCC1st.txt  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Dataset\SCC2nd.txt  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Dataset\SCCP minimal database.doc  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060412)_v4.4.xls  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060830)_v5(20070913).xls  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060830)_v5(final).xls  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Dataset\Workplan  dataset for SCCP (20060830)_v5.xls  |  }
+2013-04-19 17:54:36 - Info: {[A] [Specification\Enhancement]  |  }
+2013-04-19 17:54:36 - Info: {[A] [Specification\Enhancement\20121205]  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Enhancement\20121205\after-1.jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Enhancement\20121205\after-2.jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Enhancement\20121205\Before.jpg  |  }
+2013-04-19 17:54:36 - Info: {[A] [Specification\Functional Specification]  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\FlowChart_SCCP_0.1.graphml  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\FlowChart_SCCP_0.2.graphml  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\SCCP (web).v.0.1.docx  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\SCCP (web).v.0.2.docx  |  }
+2013-04-19 17:54:36 - Info: {[A] [Specification\Functional Specification\log flow graph]  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\log flow graph\deleteflow.graphml  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\log flow graph\historyflow.graphml  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\log flow graph\logflow.graphml  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\log flow graph\printflow.graphml  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\log flow graph\saveflow.graphml  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\log flow graph\signflow.graphml  |  }
+2013-04-19 17:54:36 - Info: {[A] Specification\Functional Specification\log flow graph\unsignflow.graphml  |  }
+2013-04-19 17:54:36 - Info: {[A] [Support]  |  }
+2013-04-19 17:54:36 - Info: {[A] [Support\2012]  |  }
+2013-04-19 17:54:36 - Info: {[A] [Support\2012\20121115_update_local_data_setting]  |  }
+2013-04-19 17:54:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 17:54:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\Hospital_List_data.xls  |  }
+2013-04-19 17:54:36 - Info: {[A] [Support\2012\20121115_update_local_data_setting\HKEC_HKWC]  |  }
+2013-04-19 17:54:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\20121115.IP.zip  |  }
+2013-04-19 17:54:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\RE  GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 17:54:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_CCH_AN.log  |  }
+2013-04-19 17:54:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_DKC_AN.log  |  }
+2013-04-19 17:54:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_FYK_AN.log  |  }
+2013-04-19 17:54:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_GH_AN.log  |  }
+2013-04-19 17:54:36 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_ML_AN.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_PYN_AN.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_QMH_AN.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_RH_AN.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_SJH_AN.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_TWE_AN.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_TWH_AN.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\HKEC_HKWC\scripts_WCH_AN.log  |  }
+2013-04-19 17:54:37 - Info: {[A] [Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC]  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\RE  GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_AHN.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_BBH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_BH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_CPH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_HHH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_HKE.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_KH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_NDH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_POH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_PWH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_QEH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_SCH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_SH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_SLH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_TKO.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_TMH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_TPH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KEC_KCC_NTWC_NTEC\SCCP_Local_Data_UCH.log  |  }
+2013-04-19 17:54:37 - Info: {[A] [Support\2012\20121115_update_local_data_setting\KWC]  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KWC\RE  GCD  Local Data  setting for SCCP form.msg  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2012\20121115_update_local_data_setting\KWC\sccp.out  |  }
+2013-04-19 17:54:37 - Info: {[A] [Support\2013]  |  }
+2013-04-19 17:54:37 - Info: {[A] [Support\2013\20130327_cross_hospital_edit]  |  }
+2013-04-19 17:54:37 - Info: {[A] Support\2013\20130327_cross_hospital_edit\grr_requests_20130327.xls  |  }
+2013-04-19 17:54:37 - Info: {[A] [Test Plan]  |  }
+2013-04-19 17:54:37 - Info: {[A] Test Plan\CMS Test Plan_minimum_set.xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Test Plan\FW Updated FPS test plan.doc  |  }
+2013-04-19 17:54:37 - Info: {[A] Test Plan\SCCP_Test Plan_minimum_set.xls  |  }
+2013-04-19 17:54:37 - Info: {[A] [Test Plan\By IMP]  |  }
+2013-04-19 17:54:37 - Info: {[A] [Test Plan\By IMP\201201]  |  }
+2013-04-19 17:54:37 - Info: {[A] Test Plan\By IMP\201201\Test Cases for SCCP.v1.1.doc  |  }
+2013-04-19 17:54:37 - Info: {[A] [Test Plan\UAT]  |  }
+2013-04-19 17:54:37 - Info: {[A] Test Plan\UAT\Test Cases for SCCP.v1.1.doc  |  }
+2013-04-19 17:54:37 - Info: {[A] [Timing]  |  }
+2013-04-19 17:54:37 - Info: {[A] Timing\SCCP_Timing.xls  |  }
+2013-04-19 17:54:37 - Info: {[A] [Utilization]  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\SCCP Utilization (20130402).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\utilization_update_20130402.sql  |  }
+2013-04-19 17:54:37 - Info: {[A] [Utilization\backup]  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20070601).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20070706).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20070801).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20070911).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20071002) updated.xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20071002).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20071101).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20071203).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080102).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080204).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080304).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080402).xls  |  }
+2013-04-19 17:54:37 - Info: {[A] Utilization\backup\SCCP Utilization (20080516).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20080604).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20080702).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20080801).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20080901).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20081015).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20081104).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20081202).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090104).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090106).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090202).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090302).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090320).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090401).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090504).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090601).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090703).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090803).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20090907).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20091002).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20091102).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20091201).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100119).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100201).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100203).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100226).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100301).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100301)_bk.xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100401).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100423).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100503).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100601).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100702).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100802).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100817).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100901).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100914).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20100927).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20101004).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20101101).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20101201).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110103).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110201).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110301).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110401).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110503).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110601).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110614).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110704).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110801).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110901).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20110916).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20111003).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20111101).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20111201).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120103).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120201).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120301).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120402).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120502).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120601).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120703).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120801).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20120903).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20121003).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20121101).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20121203).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20130102).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20130201).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\SCCP Utilization (20130301).xls  |  }
+2013-04-19 17:54:38 - Info: {[A] Utilization\backup\utilization_update_20130301.sql  |  }
+2013-04-19 17:54:39 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-04-19 17:54:39 - Exit FileSync
+2013-04-19 17:54:39 - FileSync Completed
