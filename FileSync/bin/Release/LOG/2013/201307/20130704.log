@@ -1,0 +1,1094 @@
+2013-07-04 09:56:49 - Start FileSync v0.1.0.17814
+2013-07-04 09:56:49 - "E:\Git\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "e:\temp\20130704\a" -t "e:\temp\20130704\a.sync" -b "e:\temp\20130704\a.delta"
+2013-07-04 09:56:49 - Execution configuration:
+2013-07-04 09:56:49 -     - Source Folder: e:\temp\20130704\a
+2013-07-04 09:56:49 -     - Target Folder: e:\temp\20130704\a.sync
+2013-07-04 09:56:49 -     - Backup Folder: e:\temp\20130704\a.delta
+2013-07-04 09:56:49 -     - Data synchronization
+2013-07-04 09:56:49 -     - No extra ignore file pattern
+2013-07-04 09:56:49 -     - Partial log exclude ignored files
+2013-07-04 09:56:49 -     - Show window
+2013-07-04 09:56:49 - 
+2013-07-04 09:56:49 - FileSync Start
+2013-07-04 09:56:49 - Info: {  |  [D] [a3]}
+2013-07-04 09:56:49 - Info: {#### Exceution Error ####  |  The directory is not empty.
+}
+2013-07-04 09:56:49 - FileSync Completed
+2013-07-04 09:56:49 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-07-04 09:56:49 - Exit FileSync
+2013-07-04 10:04:27 - Start FileSync v0.1.1.18121
+2013-07-04 10:04:27 - "E:\Git\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "e:\temp\20130704\a" -t "e:\temp\20130704\a.sync" -b "e:\temp\20130704\a.delta"
+2013-07-04 10:04:28 - Execution configuration:
+2013-07-04 10:04:28 -     - Source Folder: e:\temp\20130704\a
+2013-07-04 10:04:28 -     - Target Folder: e:\temp\20130704\a.sync
+2013-07-04 10:04:28 -     - Backup Folder: e:\temp\20130704\a.delta
+2013-07-04 10:04:28 -     - Data synchronization
+2013-07-04 10:04:28 -     - No extra ignore file pattern
+2013-07-04 10:04:28 -     - Partial log exclude ignored files
+2013-07-04 10:04:28 -     - Show window
+2013-07-04 10:04:28 - 
+2013-07-04 10:04:28 - FileSync Start
+2013-07-04 10:04:28 - FileSync Completed
+2013-07-04 10:04:28 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-07-04 10:04:28 - Exit FileSync
+2013-07-04 10:04:48 - Start FileSync v0.1.1.18121
+2013-07-04 10:04:48 - "E:\Git\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "e:\temp\20130704\a" -t "e:\temp\20130704\a.sync" -b "e:\temp\20130704\a.delta"
+2013-07-04 10:04:49 - Execution configuration:
+2013-07-04 10:04:49 -     - Source Folder: e:\temp\20130704\a
+2013-07-04 10:04:49 -     - Target Folder: e:\temp\20130704\a.sync
+2013-07-04 10:04:49 -     - Backup Folder: e:\temp\20130704\a.delta
+2013-07-04 10:04:49 -     - Data synchronization
+2013-07-04 10:04:49 -     - No extra ignore file pattern
+2013-07-04 10:04:49 -     - Partial log exclude ignored files
+2013-07-04 10:04:49 -     - Show window
+2013-07-04 10:04:49 - 
+2013-07-04 10:04:49 - FileSync Start
+2013-07-04 10:04:49 - FileSync Completed
+2013-07-04 10:04:49 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-07-04 10:04:49 - Exit FileSync
+2013-07-04 10:11:18 - Start FileSync v0.1.1.18121
+2013-07-04 10:11:21 - Exit FileSync
+2013-07-04 15:11:31 - Start FileSync v0.1.1.18121
+2013-07-04 15:11:31 - "E:\Git\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "e:\temp\20130704\a" -t "e:\temp\20130704\a.sync" -b "e:\temp\20130704\a.delta"
+2013-07-04 15:11:31 - Execution configuration:
+2013-07-04 15:11:31 -     - Source Folder: e:\temp\20130704\a
+2013-07-04 15:11:31 -     - Target Folder: e:\temp\20130704\a.sync
+2013-07-04 15:11:31 -     - Backup Folder: e:\temp\20130704\a.delta
+2013-07-04 15:11:31 -     - Data synchronization
+2013-07-04 15:11:31 -     - No extra ignore file pattern
+2013-07-04 15:11:31 -     - Partial log exclude ignored files
+2013-07-04 15:11:31 -     - Show window
+2013-07-04 15:11:31 - 
+2013-07-04 15:11:31 - FileSync Start
+2013-07-04 15:11:31 - FileSync Completed
+2013-07-04 15:11:31 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-07-04 15:11:31 - Exit FileSync
+2013-07-04 15:12:06 - Start FileSync v0.1.1.27342
+2013-07-04 15:12:06 - "E:\Git\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS" -t "D:\Bak\oters"   -b "D:\bak\revamp"
+2013-07-04 15:12:06 - Execution configuration:
+2013-07-04 15:12:06 -     - Source Folder: \\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS
+2013-07-04 15:12:06 -     - Target Folder: D:\Bak\oters
+2013-07-04 15:12:06 -     - Backup Folder: D:\bak\revamp
+2013-07-04 15:12:06 -     - Data synchronization
+2013-07-04 15:12:06 -     - No extra ignore file pattern
+2013-07-04 15:12:06 -     - Partial log exclude ignored files
+2013-07-04 15:12:06 -     - Show window
+2013-07-04 15:12:06 - 
+2013-07-04 15:12:06 - FileSync Start
+2013-07-04 15:14:01 - Start FileSync v0.1.1.27342
+2013-07-04 15:14:01 - "E:\Git\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS" -t "D:\Bak\oters"   -b "D:\bak\revamp"
+2013-07-04 15:14:01 - Execution configuration:
+2013-07-04 15:14:01 -     - Source Folder: \\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS
+2013-07-04 15:14:01 -     - Target Folder: D:\Bak\oters
+2013-07-04 15:14:01 -     - Backup Folder: D:\bak\revamp
+2013-07-04 15:14:01 -     - Data synchronization
+2013-07-04 15:14:01 -     - No extra ignore file pattern
+2013-07-04 15:14:01 -     - Partial log exclude ignored files
+2013-07-04 15:14:01 -     - Show window
+2013-07-04 15:14:01 - 
+2013-07-04 15:14:01 - FileSync Start
+2013-07-04 15:14:21 - Start FileSync v0.1.1.27342
+2013-07-04 15:14:21 - "E:\Git\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS" -t "D:\Bak\oters"   -b "D:\bak\revamp"
+2013-07-04 15:14:21 - Execution configuration:
+2013-07-04 15:14:21 -     - Source Folder: \\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS
+2013-07-04 15:14:21 -     - Target Folder: D:\Bak\oters
+2013-07-04 15:14:21 -     - Backup Folder: D:\bak\revamp
+2013-07-04 15:14:21 -     - Data synchronization
+2013-07-04 15:14:21 -     - No extra ignore file pattern
+2013-07-04 15:14:21 -     - Partial log exclude ignored files
+2013-07-04 15:14:21 -     - Show window
+2013-07-04 15:14:21 - 
+2013-07-04 15:14:21 - FileSync Start
+2013-07-04 15:14:55 - Start FileSync v0.1.1.27342
+2013-07-04 15:14:55 - "E:\Git\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS" -t "F:\Bak\oters"   -b "F:\bak\revamp"
+2013-07-04 15:14:55 - Execution configuration:
+2013-07-04 15:14:55 -     - Source Folder: \\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS
+2013-07-04 15:14:55 -     - Target Folder: F:\Bak\oters
+2013-07-04 15:14:55 -     - Backup Folder: F:\bak\revamp
+2013-07-04 15:14:55 -     - Data synchronization
+2013-07-04 15:14:55 -     - No extra ignore file pattern
+2013-07-04 15:14:55 -     - Partial log exclude ignored files
+2013-07-04 15:14:55 -     - Show window
+2013-07-04 15:14:55 - 
+2013-07-04 15:14:55 - FileSync Start
+2013-07-04 15:14:55 - Info: {[A] .DS_Store  |  }
+2013-07-04 15:14:55 - Info: {[A] Colposcopy  Revamp Version v2.pptx  |  }
+2013-07-04 15:14:56 - Info: {[A] Colposcopy  Revamp Version v3.pptx  |  }
+2013-07-04 15:14:56 - Info: {[A] Colposcopy  Revamp Version v4.pptx  |  }
+2013-07-04 15:14:56 - Info: {[A] colposcopy.pptx  |  }
+2013-07-04 15:14:56 - Info: {[A] ERS Px Wt 20130318.ppt  |  }
+2013-07-04 15:14:56 - Info: {[A] ers_type_template.doc  |  }
+2013-07-04 15:14:56 - Info: {[A] ot_pic.pptx  |  }
+2013-07-04 15:14:56 - Info: {[A] Shortcut to ERS and OTRS at hacs2f6.lnk  |  }
+2013-07-04 15:14:56 - Info: {[A] xlslist.txt  |  }
+2013-07-04 15:14:56 - Info: {[A] [201208_cid_epr_slow_response]  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\20120306_link_cid - Shortcut.lnk  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\20120528_link_cid - Shortcut.lnk  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\20120618_link_cid - Shortcut.lnk  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\20120809_link_cid - Shortcut.lnk  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\20120829_link_cid - Shortcut.lnk  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\CID image capture program issue 20120906 v2.pptx  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\CID image capture program issue 20120906.pptx  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\LogForCS2_ERSFilter.xlsx  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\TimeOutError201207.xlsx  |  }
+2013-07-04 15:14:56 - Info: {[A] 201208_cid_epr_slow_response\TimeOutError201208.xlsx  |  }
+2013-07-04 15:14:56 - Info: {[A] [change_request]  |  }
+2013-07-04 15:14:56 - Info: {[A] change_request\Enhancement list for CID (updated at 04-May-2012).xlsx  |  }
+2013-07-04 15:14:56 - Info: {[A] change_request\_Enhancement list for CID (updated at 04-May-2012).xlsx  |  }
+2013-07-04 15:14:56 - Info: {[A] [Code walkthrough]  |  }
+2013-07-04 15:14:56 - Info: {[A] Code walkthrough\collaboration.docx  |  }
+2013-07-04 15:14:56 - Info: {[A] Code walkthrough\OTERS Configurations and Environments v1.1.docx  |  }
+2013-07-04 15:14:56 - Info: {[A] Code walkthrough\oters_revamp_func_operative_enquiry v1.0.docx  |  }
+2013-07-04 15:14:56 - Info: {[A] Code walkthrough\oters_revamp_json.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\oters_revamp_wendy.docx  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\oters_revamp_wendy_v1.docx  |  }
+2013-07-04 15:14:57 - Info: {[A] [Code walkthrough\Progress]  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\.DS_Store  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\Menu bar item.docx  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\oters_revamp_naming.xlsx - Shortcut.lnk  |  }
+2013-07-04 15:14:57 - Info: {[A] [Code walkthrough\Progress\email]  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\20110120_FW  Menu Registration Completed.msg  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\20110310_RE  Menu Registration Completed.msg  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\20110314_FW  Menu Registration Completed.msg  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\20110512_FW  Menu Registration Completed.msg  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\20110804_RE  Confirmation of menu data.msg  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\20110912_Menu Registration Completed.msg  |  }
+2013-07-04 15:14:57 - Info: {[A] [Code walkthrough\Progress\email\menu promotion]  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\menu promotion\201110_1_RE  Java Menu Promotion Request for December Normal 2011 promotion (#CR019969).msg  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\menu promotion\201110_RE  Java Menu Promotion Request for December Normal 2011 promotion (#CR019969).msg  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\menu promotion\RE  Java Menu Promotion Request for June Normal 2011 promotion (#CR019050).msg  |  }
+2013-07-04 15:14:57 - Info: {[A] Code walkthrough\Progress\email\menu promotion\RE  Java Menu Promotion Request for Mar Normal 2012 promotion (#CR020317).msg  |  }
+2013-07-04 15:14:57 - Info: {[A] [EAP_admin]  |  }
+2013-07-04 15:14:57 - Info: {[A] [EAP_admin\oc4j_admin]  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\016663_OC4J_CMS_OTERS_Creation.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\016946_OC4J_CMS_OTERS_Configuration.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\AntAccountApplications(BAR).xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\CMS-Web-Function-List.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\CMS-Web-Function-List_OTERS.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\OC4J Servers List.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Creation_hx.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] [EAP_admin\oc4j_admin\OC4J_Create_Config_Form]  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\oc4j_config_oters_dev_01.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\oc4j_config_oters_dev_02.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\oc4j_config_oters_lpt_01.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\oc4j_config_oters_sit_01.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\oc4j_config_oters_sit_02.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\oc4j_create_oters_dev.xls  |  }
+2013-07-04 15:14:57 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\oc4j_create_oters_lpt.xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\oc4j_create_oters_sit.xls  |  }
+2013-07-04 15:14:58 - Info: {[A] [EAP_admin\oc4j_admin\OC4J_Create_Config_Form\obsolete]  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\obsolete\_oc4j_cr_oters_dev_02.xls  |  }
+2013-07-04 15:14:58 - Info: {[A] [EAP_admin\oc4j_admin\OC4J_Create_Config_Form\PPM_PPT_PROD_config_01]  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\PPM_PPT_PROD_config_01\EAP_OC4J_CMS_OTERS(PPM).xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\PPM_PPT_PROD_config_01\EAP_OC4J_CMS_OTERS(PPT).xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\PPM_PPT_PROD_config_01\EAP_OC4J_CMS_OTERS(PROD).xls  |  }
+2013-07-04 15:14:58 - Info: {[A] [EAP_admin\oc4j_admin\OC4J_Create_Config_Form\PPM_PPT_PROD_create]  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\PPM_PPT_PROD_create\EAP_OC4J_CMS_OTERS(PPM).xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\PPM_PPT_PROD_create\EAP_OC4J_CMS_OTERS(PPT).xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\PPM_PPT_PROD_create\EAP_OC4J_CMS_OTERS(PROD) (rejected - no. of app).xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form\PPM_PPT_PROD_create\EAP_OC4J_CMS_OTERS(PROD).xls  |  }
+2013-07-04 15:14:58 - Info: {[A] [EAP_admin\oc4j_admin\OC4J_Create_Config_Form(BAR)]  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form(BAR)\oc4j_config_otrs_bar_dev_01.xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form(BAR)\oc4j_config_otrs_bar_lpt_01.xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form(BAR)\oc4j_config_otrs_bar_sit_01.xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form(BAR)\oc4j_create_otrs_bar_dev.xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form(BAR)\oc4j_create_otrs_bar_sit.xls  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form(BAR)\Shortcut to old OC4J form.lnk  |  }
+2013-07-04 15:14:58 - Info: {[A] [EAP_admin\oc4j_admin\OC4J_Create_Config_Form(BAR)\PPM_PPT_PROD_config_01]  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\OC4J_Create_Config_Form(BAR)\PPM_PPT_PROD_config_01\Shortcut to 201003.lnk  |  }
+2013-07-04 15:14:58 - Info: {[A] [EAP_admin\oc4j_admin\Ref_Doc]  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\Ref_Doc\ANT Deployment User Guide v1.2.doc  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\Ref_Doc\ANT support handbook 1.0.doc  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\Ref_Doc\ant_properties.tif  |  }
+2013-07-04 15:14:58 - Info: {[A] EAP_admin\oc4j_admin\Ref_Doc\DevOc4jHowTo.ppt  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\Ref_Doc\oc4j_control_user_manual_090331c.doc  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\Ref_Doc\OC4J_Creation_Configuration_v1.2.6.xls  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\Ref_Doc\OC4J_Creation_Configuration_v1.2.9.xls  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\Ref_Doc\sample_oc4j_cr.xls  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\Ref_Doc\SSH Gateway User Guide 1.03.doc  |  }
+2013-07-04 15:14:59 - Info: {[A] [EAP_admin\oc4j_admin\template]  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\template\_script_add_dbaccount(bar).sql  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\template\_script_add_dbaccount.sql  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\template\_template_DNS_PPM.txt  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\template\_template_DNS_PPT.txt  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\template\_template_DNS_PROD.txt  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\oc4j_admin\template\_template_OC4J_request.txt  |  }
+2013-07-04 15:14:59 - Info: {[A] [EAP_admin\webLogic_admin]  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\CMS Promotion arrangement for OC4J to WebLogic Migration.msg  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\EAPv3 environment configuration form_DEV.xlsx  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\EAPv3 environment preparation (LPT).xlsx  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\EAPv3 environment SIT.xlsx  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\HA-CMS-Migrate-Preso-03.ppt  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\related_cms_functions.xls  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\Weblogic_Quick_Start_draft_v0.1.doc  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\Weblogic_Quick_Start_draft_v0.2.doc  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\wls_misc.xlsx  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\wls_otrs.xlsx  |  }
+2013-07-04 15:14:59 - Info: {[A] [EAP_admin\webLogic_admin\Firewall]  |  }
+2013-07-04 15:14:59 - Info: {[A] EAP_admin\webLogic_admin\Firewall\20110210 (completed)FW  Firewall change request for CMS (OTRS and ERS) ePR interface (fw-110211b).msg  |  }
+2013-07-04 15:15:00 - Info: {[A] EAP_admin\webLogic_admin\Firewall\20110210_Firewall change request for CMS (OTRS and ERS) ePR interface.msg  |  }
+2013-07-04 15:15:00 - Info: {[A] EAP_admin\webLogic_admin\Firewall\FW_Change_Request_Form_ePR_nonProd.doc  |  }
+2013-07-04 15:15:00 - Info: {[A] EAP_admin\webLogic_admin\Firewall\FW_Change_Request_Form_ePR_ppm_fps_prod.doc  |  }
+2013-07-04 15:15:00 - Info: {[A] EAP_admin\webLogic_admin\Firewall\FW_Change_Request_Form_pxwtcalc_ppm_fps_prod.doc  |  }
+2013-07-04 15:15:00 - Info: {[A] [EAP_admin\webLogic_admin\LoadTest]  |  }
+2013-07-04 15:15:00 - Info: {[A] [EAP_admin\webLogic_admin\WS_auth]  |  }
+2013-07-04 15:15:00 - Info: {[A] EAP_admin\webLogic_admin\WS_auth\SA1-ws auth-10-12-07.ppt  |  }
+2013-07-04 15:15:00 - Info: {[A] EAP_admin\webLogic_admin\WS_auth\Web Service Authorization.docx  |  }
+2013-07-04 15:15:00 - Info: {[A] [FU]  |  }
+2013-07-04 15:15:00 - Info: {[A] FU\.DS_Store  |  }
+2013-07-04 15:15:00 - Info: {[A] FU\02_ers_system_introduction v2.ppt  |  }
+2013-07-04 15:15:00 - Info: {[A] FU\02_ot_system_introduction.ppt  |  }
+2013-07-04 15:15:00 - Info: {[A] FU\CID Information BAR and Add Image Command Button 20120302.pptx  |  }
+2013-07-04 15:15:00 - Info: {[A] FU\deshell_common_task.xlsx  |  }
+2013-07-04 15:15:00 - Info: {[A] FU\ERS_OTRS_Rollout_Issues.pptx  |  }
+2013-07-04 15:15:00 - Info: {[A] FU\Feedback on ERS OTRS Reports 20120302.pptx  |  }
+2013-07-04 15:15:00 - Info: {[A] FU\Feedback on ERS Usability Walkthrough 20120302.pptx  |  }
+2013-07-04 15:15:00 - Info: {[A] FU\FU items after Review 30120302.pptx  |  }
+2013-07-04 15:15:02 - Info: {[A] FU\impact_study.pptx  |  }
+2013-07-04 15:15:02 - Info: {[A] FU\impact_study_v1.pptx  |  }
+2013-07-04 15:15:02 - Info: {[A] FU\Interfaces Progress 20120302.pptx  |  }
+2013-07-04 15:15:02 - Info: {[A] FU\oters_revamp_issue_drawing v2.pptx  |  }
+2013-07-04 15:15:02 - Info: {[A] FU\oters_revamp_issue_drawing v3.pptx  |  }
+2013-07-04 15:15:02 - Info: {[A] FU\oters_revamp_issue_drawing.pptx  |  }
+2013-07-04 15:15:03 - Info: {[A] FU\Proposal on ERS - Colposcopy 20120301.pptx  |  }
+2013-07-04 15:15:03 - Info: {[A] FU\Revamp Schedule 20120302.ppt  |  }
+2013-07-04 15:15:03 - Info: {[A] [FU\20121018-EIS]  |  }
+2013-07-04 15:15:03 - Info: {[A] FU\20121018-EIS\FW  EIS Steering Group Meeting on 17 October 2012.msg  |  }
+2013-07-04 15:15:03 - Info: {[A] FU\20121018-EIS\RE  EIS Steering Group Meeting on 17 October 2012.msg  |  }
+2013-07-04 15:15:03 - Info: {[A] FU\20121018-EIS\RE  OTRS enhancement .msg  |  }
+2013-07-04 15:15:03 - Info: {[A] [FU\20130412_ERS_pxwt]  |  }
+2013-07-04 15:15:03 - Info: {[A] FU\20130412_ERS_pxwt\RE  SRW calcuation for procedures in ERS .msg  |  }
+2013-07-04 15:15:03 - Info: {[A] [FU\cid]  |  }
+2013-07-04 15:15:03 - Info: {[A] FU\cid\cid_enhancement.xlsx  |  }
+2013-07-04 15:15:03 - Info: {[A] FU\cid\cid_fu.pptx  |  }
+2013-07-04 15:15:04 - Info: {[A] FU\cid\Integration of endoscopy image capture and clinical photo upload with ERS  OTRS revamp schedule.pdf  |  }
+2013-07-04 15:15:04 - Info: {[A] [FU\cid\tobedel]  |  }
+2013-07-04 15:15:04 - Info: {[A] FU\cid\tobedel\cid_fu.pptx  |  }
+2013-07-04 15:15:04 - Info: {[A] FU\cid\tobedel\cid_fu_1.pptx  |  }
+2013-07-04 15:15:04 - Info: {[A] [FU\cmsprn]  |  }
+2013-07-04 15:15:04 - Info: {[A] FU\cmsprn\amy450test.vbs  |  }
+2013-07-04 15:15:04 - Info: {[A] FU\cmsprn\cmsprn.7z  |  }
+2013-07-04 15:15:04 - Info: {[A] FU\cmsprn\test.txt  |  }
+2013-07-04 15:15:04 - Info: {[A] [FU\colposcopy]  |  }
+2013-07-04 15:15:04 - Info: {[A] FU\colposcopy\Changes in Revamped ERS - Colposcopy.msg  |  }
+2013-07-04 15:15:05 - Info: {[A] FU\colposcopy\Revamped ERS - Colposcopy.ppt  |  }
+2013-07-04 15:15:05 - Info: {[A] [FU\DKC]  |  }
+2013-07-04 15:15:05 - Info: {[A] [FU\Outstanding]  |  }
+2013-07-04 15:15:05 - Info: {[A] FU\Outstanding\CID Information BAR and Add Image Command Button 20120301.pptx  |  }
+2013-07-04 15:15:05 - Info: {[A] FU\Outstanding\Feedback on ERS OTRS Reports 20120301.pptx  |  }
+2013-07-04 15:15:05 - Info: {[A] FU\Outstanding\Feedback on ERS Production Drill 20120301.pptx  |  }
+2013-07-04 15:15:05 - Info: {[A] FU\Outstanding\Feedback on ERS Usability Walkthrough 20120301.pptx  |  }
+2013-07-04 15:15:05 - Info: {[A] FU\Outstanding\FU items after Review 30120301.pptx  |  }
+2013-07-04 15:15:06 - Info: {[A] FU\Outstanding\FU items after Review.pptx  |  }
+2013-07-04 15:15:08 - Info: {[A] [FU\Outstanding\20130416]  |  }
+2013-07-04 15:15:08 - Info: {[A] FU\Outstanding\20130416\CMSOPERS.pbl  |  }
+2013-07-04 15:15:09 - Info: {[A] FU\Outstanding\20130416\CMS_OT.pbl  |  }
+2013-07-04 15:15:09 - Info: {[A] FU\Outstanding\20130416\OPER_COM.pbl  |  }
+2013-07-04 15:15:09 - Info: {[A] FU\Outstanding\20130416\PSY_CLI.pbl  |  }
+2013-07-04 15:15:09 - Info: {[A] FU\Outstanding\20130416\PSY_CMS.pbl  |  }
+2013-07-04 15:15:10 - Info: {[A] FU\Outstanding\20130416\PSY_CS.pbl  |  }
+2013-07-04 15:15:10 - Info: {[A] FU\Outstanding\20130416\PSY_ENQ.pbl  |  }
+2013-07-04 15:15:10 - Info: {[A] FU\Outstanding\20130416\PSY_PAT.pbl  |  }
+2013-07-04 15:15:10 - Info: {[A] FU\Outstanding\20130416\PSY_RPT.pbl  |  }
+2013-07-04 15:15:10 - Info: {[A] FU\Outstanding\20130416\PSY_RPTW.pbl  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\PSY_SUP.pbl  |  }
+2013-07-04 15:15:11 - Info: {[A] [FU\Outstanding\20130416\pbd]  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\ae3in1.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\aedf.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\allergy.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\cidpbi_nonvisual.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\cms.exe  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\cmsae01.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\cmsaeis.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\cmscdars.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\cmscdss.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\cmscitx.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\cmseicd9.pbd  |  }
+2013-07-04 15:15:11 - Info: {[A] FU\Outstanding\20130416\pbd\cmsgcdss.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsop.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsopapp.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsopbcc.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsopdm.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsopers.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsopmed.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsopnis.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsopoth.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsopprn.pbd  |  }
+2013-07-04 15:15:12 - Info: {[A] FU\Outstanding\20130416\pbd\cmsopprt.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cmsoprre.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_ccs.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_cdb.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_cdf.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_com.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_com2.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_ds.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_ehs.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_epr.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_icd9.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_intf.pbd  |  }
+2013-07-04 15:15:13 - Info: {[A] FU\Outstanding\20130416\pbd\cms_menu.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\cms_move.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\cms_msg.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\cms_note.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\cms_ot.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\cms_otms.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\cms_pdpo.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\cms_rept.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\cms_ril.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\cms_sars.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\disinfo.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\ereferral.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\grow_cur.pbd  |  }
+2013-07-04 15:15:15 - Info: {[A] FU\Outstanding\20130416\pbd\grr_appl.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\grr_com.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\grr_corp.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\grr_dobj.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\grr_dw.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\grr_edi.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\grr_iobj.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\grr_pred.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\hafm_01.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\hafm_ext.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\hasccn.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\hasccrp.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\hascexm.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\hascimmu.pbd  |  }
+2013-07-04 15:15:16 - Info: {[A] FU\Outstanding\20130416\pbd\hascimmurp.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\hascinit.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\hascoth.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\hascutl.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\imgdoc.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\imhp.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\ipmoe.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\loe.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\loe_com.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\loe_form.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\lrrcom.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\lrrds.pbd  |  }
+2013-07-04 15:15:17 - Info: {[A] FU\Outstanding\20130416\pbd\lrrdt.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrgway.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrlre.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrlre2.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrmaint.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrops.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrops2.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrroth.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrpa.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrrm.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrrms.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\lrrrsltr.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\message.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\misc_ahn.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\misc_bbh.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\misc_bh.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\misc_cch.pbd  |  }
+2013-07-04 15:15:18 - Info: {[A] FU\Outstanding\20130416\pbd\misc_cmc.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_cph.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_dkc.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_fyk.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_gh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_gop.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_hhh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_hke.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_kch.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_kh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_kwh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_ml.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_ndh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_nlh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_olm.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_pmh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_poh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_pwh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_pyn.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_qeh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_qmh.pbd  |  }
+2013-07-04 15:15:19 - Info: {[A] FU\Outstanding\20130416\pbd\misc_rh.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_sch.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_sh.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_sjh.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_slh.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_tko.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_tmh.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_tph.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_tsk.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_twe.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_twh.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_tyh.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_uch.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_wch.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_wts.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\misc_ych.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\moe.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\moe1.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\moe_cddh.pbd  |  }
+2013-07-04 15:15:20 - Info: {[A] FU\Outstanding\20130416\pbd\moe_core.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\moe_mds.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\moe_misc.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\moe_pxy.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\mri_bmp.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\mri_disp.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\oallergy.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\obs_cor.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\obs_cor2.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\obs_enq.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\obs_rec.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\obs_rec2.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\obs_reg.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\obs_web.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\oi.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\oper_com.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\ops.pbd  |  }
+2013-07-04 15:15:21 - Info: {[A] FU\Outstanding\20130416\pbd\otms_ws.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\ot_book.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\pbdom90.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\pbsoapclient90.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\pcs.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\pcsother.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\pcs_bmp.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\pcs_disp.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\prn_menu.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\prn_tmpl.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\probleml.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\psy_cli.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\psy_cms.pbd  |  }
+2013-07-04 15:15:22 - Info: {[A] FU\Outstanding\20130416\pbd\psy_cs.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\psy_enq.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\psy_pat.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\psy_ref.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\psy_rpt.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\psy_rptw.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\psy_sup.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\reportdw.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\reports.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\rt_com.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\rt_isot.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\rt_mould.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\rt_plan.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\rt_print.pbd  |  }
+2013-07-04 15:15:23 - Info: {[A] FU\Outstanding\20130416\pbd\scis.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] FU\Outstanding\20130416\pbd\scis2.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] FU\Outstanding\20130416\pbd\scsc.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] FU\Outstanding\20130416\pbd\sliprn.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] FU\Outstanding\20130416\pbd\somip.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] FU\Outstanding\20130416\pbd\stdog_01.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] FU\Outstanding\20130416\pbd\stdog_02.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] FU\Outstanding\20130416\pbd\user_adm.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] FU\Outstanding\20130416\pbd\what_new.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] FU\Outstanding\20130416\pbd\winsock.pbd  |  }
+2013-07-04 15:15:24 - Info: {[A] [Meeting]  |  }
+2013-07-04 15:15:24 - Info: {[A] Meeting\.DS_Store  |  }
+2013-07-04 15:15:24 - Info: {[A] Meeting\collaboration.pptx  |  }
+2013-07-04 15:15:26 - Info: {[A] Meeting\InConsultV8.ppt  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\oters_gcrs_interface_20100427.ppt  |  }
+2013-07-04 15:15:27 - Info: {[A] [Meeting\AFG]  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\AFG\Shortcut to CID2009 - AFG Updates.pptx.lnk  |  }
+2013-07-04 15:15:27 - Info: {[A] [Meeting\CID]  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CID\agenda_4.2_cid.pptx  |  }
+2013-07-04 15:15:27 - Info: {[A] [Meeting\CID\20120906]  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CID\20120906\CID image capture program issue 20120906.ppt  |  }
+2013-07-04 15:15:27 - Info: {[A] [Meeting\CID\20121219]  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CID\20121219\20121219_ERS_OTR_CID_Progress_Update.pptx  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CID\20121219\20121219_ERS_OTR_Progress_Update.pptx  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CID\20121219\agenda_4.5_rollout_plan_v3.pptx  |  }
+2013-07-04 15:15:27 - Info: {[A] [Meeting\CID\20130321]  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CID\20130321\20130321_ERS_OTRS_CID_Progress_Update.pptx  |  }
+2013-07-04 15:15:27 - Info: {[A] [Meeting\CID\20130703]  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CID\20130703\20130703_cid_tg.pptx  |  }
+2013-07-04 15:15:27 - Info: {[A] [Meeting\CS2Revamp]  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CS2Revamp\cs2_revamp_meeting_45th_2013022.pptx  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CS2Revamp\cs2_revamp_meeting_ccp_feature_45th_2013022.pptx  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CS2Revamp\cs2_revamp_meeting_copy_and_paste_45th_2013022.pptx  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CS2Revamp\Memory Leak FW  30th RTF Meeting Agenda.msg  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_12th_20091116_QALoad_tools.ppt  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_18th_20100816.ppt  |  }
+2013-07-04 15:15:27 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_19th_20100921.ppt  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_24th_20110324.ppt  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_24th_20110324_Mike.pptx  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_29th_20110822_Ivan.pptx  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_2nd_20080911.ppt  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_38th_20120517_Mike_Tak.pptx  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_47th_20130520_Ivan_ERS and OTRS Study on Ext window.pptx  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\OTERS_revamp_meeting_9th_20090618.ppt  |  }
+2013-07-04 15:15:28 - Info: {[A] [Meeting\CS2Revamp\48th_20130627]  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\48th_20130627\Missing Printout.pptx  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\48th_20130627\session_replication.pptx  |  }
+2013-07-04 15:15:28 - Info: {[A] [Meeting\CS2Revamp\tobedel]  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\tobedel\20110324_24th_cs2_revamp_oters.pptx  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\tobedel\Copy of OTERS_revamp_meeting_18th_20100816.ppt  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\CS2Revamp\tobedel\cs2_revamp_meeting_46th_20130225.pptx  |  }
+2013-07-04 15:15:28 - Info: {[A] [Meeting\Demonstration]  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\Demonstration\20130307_oters_cms_demo.pptx  |  }
+2013-07-04 15:15:28 - Info: {[A] Meeting\Demonstration\2013515_oters_cms_demo.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\Demonstration\_20130307_oters_cms_demo.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] [Meeting\DFG]  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\20101028_dfg_cid v2.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\20101028_dfg_cid v3.ppt  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\20101028_dfg_cid v3.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\20101028_dfg_cid.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\20101028_dfg_gcrs.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\20101028_dfg_gcrs_v2.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\20101028_dfg_gcrs_v3.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\20101028_dfg_gcrs_v4.ppt  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\20101028_dfg_gcrs_v4.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] [Meeting\DFG\reference]  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\reference\cid_73rd.pptx  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\reference\oters_revamp_20100204.ppt  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\reference\oters_revamp_issue.ppt  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DFG\reference\Shortcut to ers_cid_briefing.ppt.lnk  |  }
+2013-07-04 15:15:29 - Info: {[A] [Meeting\DW]  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DW\dw_data_dict_colpos_data_extraction_current_v1.xlsx  |  }
+2013-07-04 15:15:29 - Info: {[A] Meeting\DW\ERS Colposcopy DW.ppt  |  }
+2013-07-04 15:15:30 - Info: {[A] [Meeting\DxPx-interface]  |  }
+2013-07-04 15:15:30 - Info: {[A] Meeting\DxPx-interface\dw_data_dict_colpos_data_extraction_current_v1.xlsx  |  }
+2013-07-04 15:15:30 - Info: {[A] Meeting\DxPx-interface\dw_data_dict_ers_static_table.xlsx  |  }
+2013-07-04 15:15:30 - Info: {[A] Meeting\DxPx-interface\OT_DW_interface auto calculation_20080827 v3.ppt  |  }
+2013-07-04 15:15:30 - Info: {[A] Meeting\DxPx-interface\OT_DW_interface auto calculation_20091109.ppt  |  }
+2013-07-04 15:15:30 - Info: {[A] Meeting\DxPx-interface\review_px_wt_cal_service_meeting.docx  |  }
+2013-07-04 15:15:30 - Info: {[A] Meeting\DxPx-interface\TerminologyEngineServicehWithUIInterfaceSpec_v01.doc  |  }
+2013-07-04 15:15:30 - Info: {[A] [Meeting\DxPx-interface\20100301]  |  }
+2013-07-04 15:15:30 - Info: {[A] Meeting\DxPx-interface\20100301\Draft Px Weight Calculation Service Interface Specification v0.1.doc  |  }
+2013-07-04 15:15:30 - Info: {[A] Meeting\DxPx-interface\20100301\ERS-EIS interface workplan.xlsx  |  }
+2013-07-04 15:15:30 - Info: {[A] Meeting\DxPx-interface\20100301\Px Weight Calculation Service Interface Specification v1.doc  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\20100301\Px Weight Calculation Service Interface Specification.doc  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\20100301\px wt calculation 20100204 v4(master).ppt  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\20100301\px wt calculation 20100204 v4.ppt  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\20100301\wendy_selection_02.ppt  |  }
+2013-07-04 15:15:31 - Info: {[A] [Meeting\DxPx-interface\20100301\tobedel]  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\20100301\tobedel\px wt calculation 20100204 v2.ppt  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\20100301\tobedel\px wt calculation 20100204 v3.ppt  |  }
+2013-07-04 15:15:31 - Info: {[A] [Meeting\DxPx-interface\JAR]  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\JAR\dw_dev_server_info.txt  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\JAR\FW  Progress meeting on Procedure Weight Calculation Service.msg  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\JAR\informix_jdbc_3.50.JC4.zip  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\JAR\mdl_px_progess_cdcibm37.dat  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\JAR\RE  Progress meeting on Procedure Weight Calculation Service.msg  |  }
+2013-07-04 15:15:31 - Info: {[A] [Meeting\DxPx-interface\JAR\jar_only]  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\JAR\jar_only\ifxjdbc.jar  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\JAR\jar_only\ifxjdbcx.jar  |  }
+2013-07-04 15:15:31 - Info: {[A] Meeting\DxPx-interface\JAR\jar_only\ifxlang.jar  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\DxPx-interface\JAR\jar_only\ifxlsupp.jar  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\DxPx-interface\JAR\jar_only\ifxsqlj.jar  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\DxPx-interface\JAR\jar_only\ifxtools.jar  |  }
+2013-07-04 15:15:32 - Info: {[A] [Meeting\Finance]  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Finance\.DS_Store  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Finance\ERS - Transformation.xls  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Finance\ers_report.pptx  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Finance\ers_type_and_indication v5.0.xls  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Finance\New Text Document.txt  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Finance\question.txt  |  }
+2013-07-04 15:15:32 - Info: {[A] [Meeting\Finance\20110223]  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Finance\20110223\ers_system_introduction.ppt  |  }
+2013-07-04 15:15:32 - Info: {[A] [Meeting\Progress]  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Progress\.DS_Store  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Progress\Enhancement list v1 20120716.xls  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Progress\ERS_detail_forms.pptx  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Progress\ERS_OTRS_progress_and_rtf_v7.pptx  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Progress\ERS_OTRS_rollout_plan_20120910.pptx  |  }
+2013-07-04 15:15:32 - Info: {[A] [Meeting\Progress\20120802]  |  }
+2013-07-04 15:15:32 - Info: {[A] Meeting\Progress\20120802\ERS_OTRS_progress_20120802_ recover 10.pptx  |  }
+2013-07-04 15:15:35 - Info: {[A] [Meeting\Progress\20121108]  |  }
+2013-07-04 15:15:35 - Info: {[A] Meeting\Progress\20121108\ERS_OTRS_progress_20121107_CR_v2.pptx  |  }
+2013-07-04 15:15:36 - Info: {[A] Meeting\Progress\20121108\ERS_OTRS_progress_20121107_v4.pptx  |  }
+2013-07-04 15:15:36 - Info: {[A] Meeting\Progress\20121108\gcrs_.pptx  |  }
+2013-07-04 15:15:36 - Info: {[A] Meeting\Progress\20121108\pilot_preparation_task - Shortcut.lnk  |  }
+2013-07-04 15:15:36 - Info: {[A] Meeting\Progress\20121108\Revamp Schedule 20120910.pptx  |  }
+2013-07-04 15:15:36 - Info: {[A] Meeting\Progress\20121108\Walkthrough - Shortcut.lnk  |  }
+2013-07-04 15:15:36 - Info: {[A] [Meeting\Progress\20121108\tobedel]  |  }
+2013-07-04 15:15:36 - Info: {[A] Meeting\Progress\20121108\tobedel\20120815_ot_ers_demo.pptx  |  }
+2013-07-04 15:15:36 - Info: {[A] Meeting\Progress\20121108\tobedel\agenda_4.1_enhancments.pptx  |  }
+2013-07-04 15:15:37 - Info: {[A] Meeting\Progress\20121108\tobedel\ERS_OTRS_progress_20121107_CR_v1.pptx  |  }
+2013-07-04 15:15:37 - Info: {[A] Meeting\Progress\20121108\tobedel\ERS_OTRS_progress_20121107_v1.pptx  |  }
+2013-07-04 15:15:38 - Info: {[A] Meeting\Progress\20121108\tobedel\ERS_OTRS_progress_20121107_v2.pptx  |  }
+2013-07-04 15:15:38 - Info: {[A] Meeting\Progress\20121108\tobedel\ERS_OTRS_progress_20121107_v3.pptx  |  }
+2013-07-04 15:15:39 - Info: {[A] [Meeting\Progress\cr]  |  }
+2013-07-04 15:15:39 - Info: {[A] Meeting\Progress\cr\CR021592_request_download.docx  |  }
+2013-07-04 15:15:39 - Info: {[A] Meeting\Progress\cr\cr_raw_20121107.xlsx  |  }
+2013-07-04 15:15:39 - Info: {[A] Meeting\Progress\cr\FW  Area needed for ePR's  printed by  footer.msg  |  }
+2013-07-04 15:15:39 - Info: {[A] Meeting\Progress\cr\OTERS_MDL_UAT 20120813.xls  |  }
+2013-07-04 15:15:39 - Info: {[A] Meeting\Progress\cr\RE  (M1226) PWH ENDO.msg  |  }
+2013-07-04 15:15:39 - Info: {[A] [Meeting\Progress\cr\020736]  |  }
+2013-07-04 15:15:39 - Info: {[A] Meeting\Progress\cr\020736\FW  143rd CMS Change Request Meeting- Confirmed.msg  |  }
+2013-07-04 15:15:39 - Info: {[A] [Meeting\Progress\ERS_pxwt]  |  }
+2013-07-04 15:15:39 - Info: {[A] Meeting\Progress\ERS_pxwt\ERS Data Send to Data Warehouse.pptx  |  }
+2013-07-04 15:15:40 - Info: {[A] [Meeting\Progress\pilot_preparation_task]  |  }
+2013-07-04 15:15:40 - Info: {[A] Meeting\Progress\pilot_preparation_task\IT Contingency Plan.docx  |  }
+2013-07-04 15:15:40 - Info: {[A] Meeting\Progress\pilot_preparation_task\Preparation checklist for revamped OTRS and ERS rollout.docx  |  }
+2013-07-04 15:15:40 - Info: {[A] Meeting\Progress\pilot_preparation_task\Preparation checklist for revamped OTRS and ERS rollout_revise.docx  |  }
+2013-07-04 15:15:40 - Info: {[A] [Meeting\Progress\pilot_preparation_task\reference]  |  }
+2013-07-04 15:15:40 - Info: {[A] Meeting\Progress\pilot_preparation_task\reference\IT Contingency Plan on Psychiatric Nursing Discharge Summary.doc  |  }
+2013-07-04 15:15:40 - Info: {[A] Meeting\Progress\pilot_preparation_task\reference\PsyNDS revamp presentation file  20120809.ppt  |  }
+2013-07-04 15:15:40 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram]  |  }
+2013-07-04 15:15:40 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW]  |  }
+2013-07-04 15:15:40 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\select_ers_diag.GH_IP_AN.XLS  |  }
+2013-07-04 15:15:40 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\select_ot_diag.GH_IP_AN.XLS  |  }
+2013-07-04 15:15:40 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS]  |  }
+2013-07-04 15:15:40 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\gh_ers.html  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\gh_otrs.html  |  }
+2013-07-04 15:15:41 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS]  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\bladder.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\BLANK.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\BREAST.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\COLON.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\colp1.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\colp2.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\colp3.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\colp4.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\CUT.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\ERCP.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\ercp2.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\Ercp3.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\ghpb.htm  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\JOINT.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\LARYNX.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\LUNG.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\LUNG1.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\LUNG2.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\lung4.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\MOUTH.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\NASOPHAR.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\NEURO.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\PHARYNX.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\RECTUM.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\UGI.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\UGI1.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\UGIBAK.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\Ugibak1.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\YP1.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\YP2.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\Yp2bak.wmf  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\YP3.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\YP4.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\YP5.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\YP6.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\YP7.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ERS\YP8.WMF  |  }
+2013-07-04 15:15:41 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag]  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\BLANK.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\BR-01.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-01.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-02.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-03.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-04.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-05.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-06.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-07.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-08.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-09.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-10.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-11.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\CRT-12.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ECS-01.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\elbow.bmp  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-01.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-02.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-03.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-04.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-05.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-06.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-07.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-08.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-09.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-10.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-11.BMP  |  }
+2013-07-04 15:15:42 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-12.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-13.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-14.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-15.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-16.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-17.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-18.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-19.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-20.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-21.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-22.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-23.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-24.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-25.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-26.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-27.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-28.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-29.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ENT-30.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\eye01.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\eye01_l.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\eye01_r.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\eye02.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\eye02_l.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\eye02_r.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\eye03.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\GYN-01.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\GYN-02.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\GYN-03.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\GYN-04.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\GYN-05.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\GYN-06.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\Gyn-abnormal.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\Gyn-normal.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\hand1.bmp  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\HBP-01.BMP  |  }
+2013-07-04 15:15:43 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\HBP-02.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\HBP-03.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\HBP-04.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\HBP-05.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\HBP-06.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\HBP-07.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\hipfemur.bmp  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\humerus.bmp  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\OES-GAS.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORT-03.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORTHO-01.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORTHO-02.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORTHO-03.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORTHO-04.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORTHO-05.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORTHO-06.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORTHO-07.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORTHO-08.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\ORTHO-09.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\oscalsis.bmp  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\OT_DIAG.EXE  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\radiusulnar.bmp  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\rot_cuff.bmp  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\RT-01.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\RT-02.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\RT-03.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\RT-04.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\RT-05.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\RT-06.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\RT-07.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\tibiafibula.bmp  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\UGI-01.BMP  |  }
+2013-07-04 15:15:44 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\UGI-02.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\UGI-03.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\UGI-04.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCH-ENT1.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCH-ENT2.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCH-ENT3.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCH-ENT5.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCH-ENT6.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCH-ENT7.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCH-ENT8.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCH-ENT9.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCHENT10.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCHENT11.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCHENT12.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCHENT4A.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\CMSRAW\GH_diagrams_in_CMS_WS\ot_diag\YCHENT4B.BMP  |  }
+2013-07-04 15:15:45 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID]  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\CID-Studio_Category_and_Template_Form_ers.xlsx  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\CID-Studio_Category_and_Template_Form_otrs.xlsx  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\gh_ers_cid.html  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\gh_otrs_cid.html  |  }
+2013-07-04 15:15:45 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT]  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\BLANK.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\gh.html  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\gh_2.html  |  }
+2013-07-04 15:15:45 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Bronchoscopy]  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Bronchoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Bronchoscopy\LUNG.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Bronchoscopy\LUNG1.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Bronchoscopy\LUNG2.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Cholangiogram]  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Cholangiogram\BLANK.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Cholangiogram\ERCP.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colonoscopy]  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colonoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colonoscopy\COLON.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colonoscopy\RECTUM.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colonoscopy\YP4.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colposcopy]  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colposcopy\BLANK.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colposcopy\COLP1.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colposcopy\COLP2.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colposcopy\COLP3.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Colposcopy\COLP4.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Duodenoscopy]  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Duodenoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Duodenoscopy\UGI.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Duodenoscopy\YP1.JPG  |  }
+2013-07-04 15:15:45 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EBUS]  |  }
+2013-07-04 15:15:45 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EBUS\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EBUS\LUNG.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EBUS\LUNG1.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EBUS\LUNG2.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\ENT Exam]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\ENT Exam\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\ENT Exam\MOUTH.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\ENT Exam\YP6.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\ENT Exam\YP7.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\ENT Exam\YP8.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\ERCP]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\ERCP\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\ERCP\ERCP.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Biliary tract & pancreas]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Biliary tract & pancreas\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Biliary tract & pancreas\ERCP.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Biliary tract & pancreas\YP1.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Oesophagus]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Oesophagus\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Oesophagus\YP1.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Oesophagus\YP2.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Rectum]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Rectum\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Rectum\COLON.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Rectum\RECTUM.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Stomach]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Stomach\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Stomach\UGI.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Stomach\UGI_SRG.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Stomach\YP1.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\EUS Stomach\YP2.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Flexible Cystoscopy]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Flexible Cystoscopy\BLADDER.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Flexible Cystoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\FNA]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\FNA\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\FNA\YP3.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\FNA\YP6.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\FNA\YP7.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Hysteroscopy]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Hysteroscopy\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Hysteroscopy\HYSTEROS.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Laryngoscopy]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Laryngoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Laryngoscopy\LARYNX.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Laryngoscopy\PHARYNX.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Laryngoscopy\YP5.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Laryngoscopy\YP8.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Nasoendoscopy]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Nasoendoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Nasoendoscopy\YP5.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Nasopharyngoscopy]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Nasopharyngoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Nasopharyngoscopy\NASOPHAR.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Oesophagoscopy]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Oesophagoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Oesophagoscopy\YP1.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Oesophagoscopy\YP2.JPG  |  }
+2013-07-04 15:15:46 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\OGD]  |  }
+2013-07-04 15:15:46 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\OGD\BLANK.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\OGD\UGI.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\OGD\UGI_SRG.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\OGD\YP1.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\OGD\YP2.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Panendoscopy]  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Panendoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Panendoscopy\LARYNX.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Panendoscopy\NASOPHAR.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Panendoscopy\PHARYNX.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Panendoscopy\YP5.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Panendoscopy\YP8.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Sigmoidoscopy]  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Sigmoidoscopy\BLANK.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Sigmoidoscopy\RECTUM.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Sigmoidoscopy\YP4.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Ultrasound]  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Ultrasound\BLANK.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Ultrasound\YP3.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Ultrasound\YP6.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\ERS_GH_SV_ROOT\Ultrasound\YP7.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT]  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\BLANK.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT]  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\BLANK.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT]  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\BLANK.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCH-ENT1.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCH-ENT2.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCH-ENT3.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCH-ENT5.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCH-ENT6.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCH-ENT7.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCH-ENT8.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCH-ENT9.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCHENT10.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCHENT11.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCHENT12.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCHENT4A.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\ENT\ENT\YCHENT4B.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN]  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN\BLANK.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN\GYN]  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN\GYN\BLANK.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN\GYN\GYN-01.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN\GYN\GYN-02.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN\GYN\GYN-03.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN\GYN\GYN-04.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN\GYN\GYN-05.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\GYN\GYN\GYN-06.JPG  |  }
+2013-07-04 15:15:47 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T]  |  }
+2013-07-04 15:15:47 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T]  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORT-03.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORTHO-01.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORTHO-02.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORTHO-03.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORTHO-04.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORTHO-05.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORTHO-06.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORTHO-07.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORTHO-08.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\O&T\O&T\ORTHO-09.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH]  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\OPH]  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\OPH\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\OPH\EYE01.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\OPH\EYE01_L.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\OPH\EYE01_R.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\OPH\EYE02.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\OPH\EYE02_L.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\OPH\EYE02_R.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\OPH\OPH\EYE03.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O]  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\R&O]  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\R&O\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\R&O\RT-01.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\R&O\RT-02.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\R&O\RT-03.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\R&O\RT-04.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\R&O\RT-05.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\R&O\RT-06.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\R&O\R&O\RT-07.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG]  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\CRT]  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\CRT\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\CRT\CRT-07.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\CRT\CRT-08.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\CRT\CRT-09.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\CRT\CRT-10.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\CRT\CRT-11.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\CRT\CRT-12.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\ECS]  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\ECS\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\ECS\ECS-01.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HBP]  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HBP\BLANK.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HBP\HBP-01.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HBP\HBP-02.JPG  |  }
+2013-07-04 15:15:48 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HBP\HBP-03.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HBP\HBP-04.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HBP\HBP-05.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HBP\HBP-06.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HBP\HBP-07.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN]  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\BLANK.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-01.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-02.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-03.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-04.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-05.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-06.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-07.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-08.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-09.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-10.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-11.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-12.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-13.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-14.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-15.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-16.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-17.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-18.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-19.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-20.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-21.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-22.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-23.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-24.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-25.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-26.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-27.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-28.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-29.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\HN\ENT-30.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\OES]  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\OES\BLANK.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\OES\OES-GAS.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\UGI]  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\UGI\BLANK.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\UGI\UGI-01.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\UGI\UGI-02.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\UGI\UGI-03.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\Transformation_to_CID\OTRS_GH_SV_ROOT\SRG\UGI\UGI-04.JPG  |  }
+2013-07-04 15:15:49 - Info: {[A] [Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification]  |  }
+2013-07-04 15:15:49 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification\CID-Studio_Category_and_Template_Form_otrs.xlsx  |  }
+2013-07-04 15:15:50 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification\CIDversion_GHList.xlsx  |  }
+2013-07-04 15:15:50 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification\gh_ers_cid.html  |  }
+2013-07-04 15:15:50 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification\gh_ers_pb.html  |  }
+2013-07-04 15:15:50 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification\GH_ERS_Template.docx  |  }
+2013-07-04 15:15:50 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification\gh_otrs.html  |  }
+2013-07-04 15:15:50 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification\GH_OTRS_Template.docx  |  }
+2013-07-04 15:15:50 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification\select_ers_diag.GH_IP_AN.xlsx  |  }
+2013-07-04 15:15:50 - Info: {[A] Meeting\Progress\pilot_preparation_task\template_diagram\workingForVerification\select_ot_diag.GH_IP_AN.XLS  |  }
+2013-07-04 15:15:50 - Info: {[A] [Meeting\Progress\rtf_meeting]  |  }
+2013-07-04 15:15:50 - Info: {[A] Meeting\Progress\rtf_meeting\Amyuni Upgrade v1.pptx  |  }
+2013-07-04 15:15:51 - Info: {[A] Meeting\Progress\rtf_meeting\Amyuni Upgrade.pptx  |  }
+2013-07-04 15:15:52 - Info: {[A] Meeting\Progress\rtf_meeting\ERS_OTRS_progress_and_rtf_v1.pptx  |  }
+2013-07-04 15:15:55 - Info: {[A] Meeting\Progress\rtf_meeting\ERS_OTRS_progress_and_rtf_v2.pptx  |  }
+2013-07-04 15:15:58 - Info: {[A] Meeting\Progress\rtf_meeting\ERS_OTRS_progress_and_rtf_v3.pptx  |  }
+2013-07-04 15:16:01 - Info: {[A] Meeting\Progress\rtf_meeting\ERS_OTRS_progress_and_rtf_v4.pptx  |  }
+2013-07-04 15:16:04 - Info: {[A] Meeting\Progress\rtf_meeting\ERS_OTRS_progress_and_rtf_v5.pptx  |  }
+2013-07-04 15:16:06 - Info: {[A] [Meeting\Progress\SOW]  |  }
+2013-07-04 15:16:06 - Info: {[A] Meeting\Progress\SOW\cid_flex_measurement.7z  |  }
+2013-07-04 15:16:06 - Info: {[A] Meeting\Progress\SOW\ERS and OTRS SOW progress.docx  |  }
+2013-07-04 15:16:06 - Info: {[A] Meeting\Progress\SOW\fps_eprcidwss.wsdl.wsdl  |  }
+2013-07-04 15:16:06 - Info: {[A] Meeting\Progress\SOW\fps_EprCidWSSSoapHttpPort.wsdl  |  }
+2013-07-04 15:16:06 - Info: {[A] Meeting\Progress\SOW\HA Multithreading Using ExecutorService Studying v1.0.docx  |  }
+2013-07-04 15:16:06 - Info: {[A] Meeting\Progress\SOW\HA_SOW4_Timesheet_201210 #2.xls  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\SOW for ERS-OTRS Progress Update.pptx  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\sow20121228.docx  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\sow4_technical_sharing_20121121_v1.pptx  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\SOW_IV_RTF_Meeting_20121119 v1.0.pptx  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\WS_Good Practices for Development - DA4.pdf  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\WS_Tips and Tricks.pdf  |  }
+2013-07-04 15:16:07 - Info: {[A] [Meeting\Progress\SOW\FlexSIT2013]  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\FlexSIT2013\cid_drawing_01.jpg  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\FlexSIT2013\cid_drawing_02.jpg  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\FlexSIT2013\cid_drawing_03.jpg  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\FlexSIT2013\cid_drawing_04_otrs.jpg  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\FlexSIT2013\cid_flex_measurement.7z  |  }
+2013-07-04 15:16:07 - Info: {[A] [Meeting\Progress\SOW\GCRS]  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\GCRS\gcrs_loadtest_report_v1.1.pptx  |  }
+2013-07-04 15:16:07 - Info: {[A] Meeting\Progress\SOW\GCRS\GCRS_Performance_test_report_v0.8.docx  |  }
+2013-07-04 15:16:08 - Info: {[A] [Meeting\Progress\SOW\Load Test]  |  }
+2013-07-04 15:16:08 - Info: {[A] Meeting\Progress\SOW\Load Test\load test result.7z  |  }
+2013-07-04 15:16:08 - Info: {[A] [Meeting\Progress\SOW\Load Test\20130228]  |  }
+2013-07-04 15:16:08 - Info: {[A] Meeting\Progress\SOW\Load Test\20130228\access.20130228.160216.log  |  }
+2013-07-04 15:16:09 - Info: {[A] Meeting\Progress\SOW\Load Test\20130228\Test2_02282013_155858.TIM  |  }
+2013-07-04 15:16:09 - Info: {[A] [Meeting\Progress\SOW\Load Test\20130312]  |  }
+2013-07-04 15:16:09 - Info: {[A] Meeting\Progress\SOW\Load Test\20130312\access.yyyyMMdd.HHmmss.log  |  }
+2013-07-04 15:16:44 - Exit FileSync
+2013-07-04 15:18:36 - Start FileSync v0.1.1.27542
+2013-07-04 15:18:36 - "E:\Git\FileSync\FileSync\bin\Release\FileSync.vshost.exe" -s "\\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS"   -t "F:\Bak\oters"   -b "F:\Bak\revamp"
+2013-07-04 15:18:36 - Execution configuration:
+2013-07-04 15:18:36 -     - Source Folder: \\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS
+2013-07-04 15:18:36 -     - Target Folder: F:\Bak\oters
+2013-07-04 15:18:36 -     - Backup Folder: F:\Bak\revamp
+2013-07-04 15:18:36 -     - Data synchronization
+2013-07-04 15:18:36 -     - No extra ignore file pattern
+2013-07-04 15:18:36 -     - Partial log exclude ignored files
+2013-07-04 15:18:36 -     - Show window
+2013-07-04 15:18:36 - 
+2013-07-04 15:18:36 - FileSync Start
+2013-07-04 15:18:37 - Info: {[A] Meeting\Progress\SOW\Load Test\20130312\Test2_03122013_175026.TIM  |  }
+2013-07-04 15:18:37 - Info: {[A] [Meeting\Progress\SOW\mail]  |  }
+2013-07-04 15:18:37 - Info: {[A] Meeting\Progress\SOW\mail\Re  ERS & OTRS Development Support.msg  |  }
+2013-07-04 15:18:37 - Info: {[A] [Meeting\Progress\SOW\Ref]  |  }
+2013-07-04 15:18:37 - Info: {[A] Meeting\Progress\SOW\Ref\UsernameToken.xml  |  }
+2013-07-04 15:18:37 - Info: {[A] [Meeting\Progress\tobedel]  |  }
+2013-07-04 15:18:37 - Info: {[A] Meeting\Progress\tobedel\ERS_OTRS_progress_20120802_ recover 11.pptx  |  }
+2013-07-04 15:18:40 - Info: {[A] Meeting\Progress\tobedel\ERS_OTRS_progress_20120802_ recover 12.pptx  |  }
+2013-07-04 15:18:43 - Info: {[A] Meeting\Progress\tobedel\ERS_OTRS_progress_20120802_ recover v2.pptx  |  }
+2013-07-04 15:18:43 - Info: {[A] Meeting\Progress\tobedel\ERS_OTRS_progress_20120802_ recover v4.pptx  |  }
+2013-07-04 15:18:44 - Info: {[A] Meeting\Progress\tobedel\ERS_OTRS_progress_20120802_ recover v6.pptx  |  }
+2013-07-04 15:18:46 - Exit FileSync
+2013-07-04 15:21:13 - Start FileSync v0.1.2.27602
+2013-07-04 15:21:15 - Exit FileSync
+2013-07-04 15:26:02 - Start FileSync v0.1.1.27766
+2013-07-04 15:26:19 - Exit FileSync

@@ -5,6 +5,6 @@
     </StartArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
-    <StartArguments>-s "\\hacs2f7\SCCP"   -t "F:\hacs2f7\SCCP-2"   -b "F:\hacs2f7.bak\SCCP-2"</StartArguments>
+    <StartArguments>-s "\\hacs2f7\common\Meeting\Presentation\CMS II Revamp\OTRS"   -t "F:\Bak\oters"   -b "F:\Bak\revamp"</StartArguments>
   </PropertyGroup>
 </Project>

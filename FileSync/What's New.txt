@@ -1,0 +1,6 @@
+﻿2013-07-04 - v0.1.1
+- Fix the problem of directory deletion
+- Fix the message length in notification icon
+
+2013-04-19 - v0.1.0
+- Initial Version

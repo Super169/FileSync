@@ -10,3 +10,15 @@ C:\my.source\FileSync\FileSync\obj\x86\Debug\FileSync.frmAbout.resources
 C:\my.source\FileSync\FileSync\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\my.source\FileSync\FileSync\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\my.source\FileSync\FileSync\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Git\FileSync\FileSync\obj\x86\Debug\FileSync.exe
+E:\Git\FileSync\FileSync\obj\x86\Debug\FileSync.xml
+E:\Git\FileSync\FileSync\obj\x86\Debug\FileSync.pdb
+E:\Git\FileSync\FileSync\bin\Debug\FileSync.exe
+E:\Git\FileSync\FileSync\bin\Debug\FileSync.pdb
+E:\Git\FileSync\FileSync\bin\Debug\FileSync.xml
+E:\Git\FileSync\FileSync\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Git\FileSync\FileSync\obj\x86\Debug\FileSync.frmAbout.resources
+E:\Git\FileSync\FileSync\obj\x86\Debug\FileSync.frmMain.resources
+E:\Git\FileSync\FileSync\obj\x86\Debug\FileSync.Resources.resources
+E:\Git\FileSync\FileSync\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Git\FileSync\FileSync\obj\x86\Debug\GenerateResource.write.1.tlog

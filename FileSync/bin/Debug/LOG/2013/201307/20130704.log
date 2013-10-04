@@ -1,0 +1,45 @@
+2013-07-04 09:57:26 - Start FileSync v0.1.0.17814
+2013-07-04 09:58:11 - FileSync started for [E:\Temp\20130704\a] [E:\Temp\20130704\a.sync] [E:\Temp\20130704\a.delta]
+2013-07-04 09:58:11 - Execution configuration:
+2013-07-04 09:58:11 -     - Source Folder: E:\Temp\20130704\a
+2013-07-04 09:58:11 -     - Target Folder: E:\Temp\20130704\a.sync
+2013-07-04 09:58:11 -     - Backup Folder: E:\Temp\20130704\a.delta
+2013-07-04 09:58:11 -     - Data synchronization
+2013-07-04 09:58:11 -     - No extra ignore file pattern
+2013-07-04 09:58:11 -     - Full log include ignored files
+2013-07-04 09:58:11 -     - Show window
+2013-07-04 09:58:11 - 
+2013-07-04 09:58:11 - FileSync Start
+2013-07-04 09:58:11 - Info: {  |  [D] [a3]}
+2013-07-04 09:58:11 - Info: {#### Exceution Error ####  |  The directory is not empty.
+}
+2013-07-04 09:58:11 - FileSync Completed
+2013-07-04 09:58:11 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-07-04 09:58:28 - FileSync started for [E:\Temp\20130704\a] [E:\Temp\20130704\a.sync] [E:\Temp\20130704\a.delta]
+2013-07-04 09:58:28 - Execution configuration:
+2013-07-04 09:58:28 -     - Source Folder: E:\Temp\20130704\a
+2013-07-04 09:58:28 -     - Target Folder: E:\Temp\20130704\a.sync
+2013-07-04 09:58:29 -     - Backup Folder: E:\Temp\20130704\a.delta
+2013-07-04 09:58:29 -     - Data synchronization
+2013-07-04 09:58:29 -     - No extra ignore file pattern
+2013-07-04 09:58:29 -     - Full log include ignored files
+2013-07-04 09:58:29 -     - Show window
+2013-07-04 09:58:29 - 
+2013-07-04 09:58:29 - FileSync Start
+2013-07-04 09:58:31 - Info: {  |  [D] [a3]}
+2013-07-04 10:00:54 - FileSync Completed
+2013-07-04 10:00:54 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-07-04 10:01:00 - FileSync started for [E:\Temp\20130704\a] [E:\Temp\20130704\a.sync] [E:\Temp\20130704\a.delta]
+2013-07-04 10:01:00 - Execution configuration:
+2013-07-04 10:01:00 -     - Source Folder: E:\Temp\20130704\a
+2013-07-04 10:01:00 -     - Target Folder: E:\Temp\20130704\a.sync
+2013-07-04 10:01:00 -     - Backup Folder: E:\Temp\20130704\a.delta
+2013-07-04 10:01:00 -     - Data synchronization
+2013-07-04 10:01:00 -     - No extra ignore file pattern
+2013-07-04 10:01:00 -     - Full log include ignored files
+2013-07-04 10:01:00 -     - Show window
+2013-07-04 10:01:00 - 
+2013-07-04 10:01:00 - FileSync Start
+2013-07-04 10:01:00 - FileSync Completed
+2013-07-04 10:01:00 - Info: {<<------ Completed ------>>  |  <<------ Completed ------>>}
+2013-07-04 10:01:03 - Exit FileSync

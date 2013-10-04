@@ -242,7 +242,7 @@ Public Class FileSync
                         My.Computer.FileSystem.CopyDirectory(Path.Combine(currTarget, dsTarget(idxTarget).Name), _
                                                              Path.Combine(currBackup, dsTarget(idxTarget).Name))
                     End If
-                    System.IO.Directory.Delete(Path.Combine(currTarget, dsTarget(idxTarget).Name))  ' i.e. dsTarget(idxTarget).FullName
+                    System.IO.Directory.Delete(Path.Combine(currTarget, dsTarget(idxTarget).Name), True)  ' i.e. dsTarget(idxTarget).FullName
                 End If
                 idxTarget = idxTarget + 1
             ElseIf (idxTarget >= dsTarget.Length) Then

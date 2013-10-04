@@ -119,7 +119,11 @@ Public Class myApp
     End Sub
 
     Private Sub UpdateInfo(ByVal info As String)
-        NotifyIcon.Text = info
+        If (info.Length > 64) Then
+            NotifyIcon.Text = Left(info, 58) + " ..."
+        Else
+            NotifyIcon.Text = info
+        End If
     End Sub
 
     Public Sub StartIconChange()
